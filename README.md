@@ -25,10 +25,10 @@ adds some blur and blends the fingerprint on different backgrounds.
 A subset of one of the synthetic datasets is provided [here](https://www.dropbox.com/s/nbviqxosd7vwijs/data_samples.zip?dl=0). 
 It can be used to test the code running training and testing on it.
 
-### Sample trained model ###
+## Sample trained model ##
 One model trained on our synthetic data for testing purposes is provided [here](https://www.dropbox.com/s/xg2gkjcmng0p4z4/model_params_350.pkl?dl=0).
 
-### Using the code ###
+## Using the code ##
 The whole codebase, including dataset loading, model definition, training and testing is now provided in form of an ipython notebook in the "gae" folder.
 
 Make sure that "cwd_path" and "data_path" in the notebook are set correctly. Also, make sure that "Data stuff" part of the notebook can find the folders the data are
