@@ -3,7 +3,7 @@
 This repository contains code for the paper [Generative Convolutional Networks for Latent Fingerprint Reconstruction
 ](https://arxiv.org/abs/1705.01707) by Jan Svoboda, Federico Monti and Michael M. Bronstein.
 
-Current implementation reuses parts of the following [https://github.com/Newmu/dcgan_code](DCGAN implementation).
+Current implementation reuses parts of the following [DCGAN implementation](https://github.com/Newmu/dcgan_code).
 
 It is based on older Theano 0.9 and CUDNN backend.
 

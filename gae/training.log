@@ -1,0 +1,832 @@
+2017-04-28 16:11:14,360 INFO [TEST] gen: 159903.58, dis: 159903.58, mse: 152382.99, mse_o: 4974.43, mse_loq: 2546.15, cent_minutiae: 2546.15
+2017-04-28 16:11:14,360 INFO [TRAIN] gen: 99218.85, dis: 99218.85, mse: 86336.35, mse_o: 9905.07, mse_loq: 2977.44, cent_minutiae: 2977.44
+2017-04-28 16:14:55,712 INFO Epoch 0 of 1000 took 227.37 seconds.
+2017-04-28 16:17:32,227 INFO [TEST] gen: 79106.39, dis: 79106.39, mse: 72095.13, mse_o: 3295.99, mse_loq: 3715.27, cent_minutiae: 3715.27
+2017-04-28 16:17:32,227 INFO [TRAIN] gen: 81956.27, dis: 81956.27, mse: 73354.69, mse_o: 4794.69, mse_loq: 3806.88, cent_minutiae: 3806.88
+2017-04-28 16:19:10,567 INFO Epoch 1 of 1000 took 232.93 seconds.
+2017-04-28 16:22:58,231 INFO Epoch 2 of 1000 took 227.66 seconds.
+2017-04-28 16:23:33,216 INFO [TEST] gen: 76429.67, dis: 76429.67, mse: 71736.35, mse_o: 2355.67, mse_loq: 2337.65, cent_minutiae: 2337.65
+2017-04-28 16:23:33,216 INFO [TRAIN] gen: 78048.09, dis: 78048.09, mse: 72609.65, mse_o: 3111.77, mse_loq: 2326.67, cent_minutiae: 2326.67
+2017-04-28 16:26:50,428 INFO Epoch 3 of 1000 took 232.20 seconds.
+2017-04-28 16:29:34,106 INFO [TEST] gen: 75747.70, dis: 75747.70, mse: 71711.98, mse_o: 2006.28, mse_loq: 2029.43, cent_minutiae: 2029.43
+2017-04-28 16:29:34,106 INFO [TRAIN] gen: 77459.74, dis: 77459.74, mse: 72658.79, mse_o: 2514.31, mse_loq: 2286.64, cent_minutiae: 2286.64
+2017-04-28 16:30:43,525 INFO Epoch 4 of 1000 took 233.10 seconds.
+2017-04-28 16:34:32,700 INFO Epoch 5 of 1000 took 229.17 seconds.
+2017-04-28 16:35:36,914 INFO [TEST] gen: 75269.58, dis: 75269.58, mse: 71575.46, mse_o: 1679.13, mse_loq: 2014.99, cent_minutiae: 2014.99
+2017-04-28 16:35:36,915 INFO [TRAIN] gen: 76253.63, dis: 76253.63, mse: 71960.95, mse_o: 2075.52, mse_loq: 2217.16, cent_minutiae: 2217.16
+2017-04-28 16:38:22,736 INFO Epoch 6 of 1000 took 230.03 seconds.
+2017-04-28 16:41:31,698 INFO [TEST] gen: 75350.84, dis: 75350.84, mse: 71537.06, mse_o: 1725.38, mse_loq: 2088.40, cent_minutiae: 2088.40
+2017-04-28 16:41:31,699 INFO [TRAIN] gen: 77218.94, dis: 77218.94, mse: 72723.91, mse_o: 2099.49, mse_loq: 2395.55, cent_minutiae: 2395.55
+2017-04-28 16:42:11,238 INFO Epoch 7 of 1000 took 228.50 seconds.
+2017-04-28 16:45:54,519 INFO Epoch 8 of 1000 took 223.28 seconds.
+2017-04-28 16:47:24,545 INFO [TEST] gen: 75344.85, dis: 75344.85, mse: 71471.38, mse_o: 1810.04, mse_loq: 2063.43, cent_minutiae: 2063.43
+2017-04-28 16:47:24,545 INFO [TRAIN] gen: 76183.09, dis: 76183.09, mse: 72003.02, mse_o: 1930.37, mse_loq: 2249.71, cent_minutiae: 2249.71
+2017-04-28 16:49:41,088 INFO Epoch 9 of 1000 took 226.57 seconds.
+2017-04-28 16:53:16,742 INFO [TEST] gen: 75017.86, dis: 75017.86, mse: 71355.46, mse_o: 1631.83, mse_loq: 2030.57, cent_minutiae: 2030.57
+2017-04-28 16:53:16,742 INFO [TRAIN] gen: 76412.27, dis: 76412.27, mse: 72305.68, mse_o: 1870.77, mse_loq: 2235.82, cent_minutiae: 2235.82
+2017-04-28 16:53:28,403 INFO Epoch 10 of 1000 took 227.31 seconds.
+2017-04-28 16:57:11,965 INFO Epoch 11 of 1000 took 223.56 seconds.
+2017-04-28 16:59:09,896 INFO [TEST] gen: 74820.07, dis: 74820.07, mse: 71367.03, mse_o: 1353.13, mse_loq: 2099.92, cent_minutiae: 2099.92
+2017-04-28 16:59:09,897 INFO [TRAIN] gen: 76370.17, dis: 76370.17, mse: 72349.56, mse_o: 1800.41, mse_loq: 2220.20, cent_minutiae: 2220.20
+2017-04-28 17:00:59,547 INFO Epoch 12 of 1000 took 227.58 seconds.
+2017-04-28 17:04:41,779 INFO Epoch 13 of 1000 took 222.23 seconds.
+2017-04-28 17:05:02,009 INFO [TEST] gen: 75158.23, dis: 75158.23, mse: 71412.74, mse_o: 1840.25, mse_loq: 1905.24, cent_minutiae: 1905.24
+2017-04-28 17:05:02,009 INFO [TRAIN] gen: 74290.27, dis: 74290.27, mse: 70539.27, mse_o: 1770.65, mse_loq: 1980.35, cent_minutiae: 1980.35
+2017-04-28 17:08:29,888 INFO Epoch 14 of 1000 took 228.11 seconds.
+2017-04-28 17:10:56,071 INFO [TEST] gen: 73904.90, dis: 73904.90, mse: 70989.37, mse_o: 1638.66, mse_loq: 1276.88, cent_minutiae: 1276.88
+2017-04-28 17:10:56,072 INFO [TRAIN] gen: 73730.08, dis: 73730.08, mse: 69911.56, mse_o: 2334.13, mse_loq: 1484.39, cent_minutiae: 1484.39
+2017-04-28 17:12:17,793 INFO Epoch 15 of 1000 took 227.90 seconds.
+2017-04-28 17:16:00,358 INFO Epoch 16 of 1000 took 222.56 seconds.
+2017-04-28 17:16:48,411 INFO [TEST] gen: 66229.84, dis: 66229.84, mse: 63451.64, mse_o: 1883.01, mse_loq: 895.19, cent_minutiae: 895.19
+2017-04-28 17:16:48,411 INFO [TRAIN] gen: 65743.70, dis: 65743.70, mse: 62603.22, mse_o: 2013.80, mse_loq: 1126.69, cent_minutiae: 1126.69
+2017-04-28 17:19:48,765 INFO Epoch 17 of 1000 took 228.41 seconds.
+2017-04-28 17:22:41,831 INFO [TEST] gen: 67018.35, dis: 67018.35, mse: 64436.91, mse_o: 1836.42, mse_loq: 745.02, cent_minutiae: 745.02
+2017-04-28 17:22:41,831 INFO [TRAIN] gen: 61152.73, dis: 61152.73, mse: 58257.33, mse_o: 1953.17, mse_loq: 942.24, cent_minutiae: 942.24
+2017-04-28 17:23:35,579 INFO Epoch 18 of 1000 took 226.81 seconds.
+2017-04-28 17:27:19,795 INFO Epoch 19 of 1000 took 224.21 seconds.
+2017-04-28 17:28:35,966 INFO [TEST] gen: 58474.91, dis: 58474.91, mse: 56238.28, mse_o: 1698.77, mse_loq: 537.87, cent_minutiae: 537.87
+2017-04-28 17:28:35,967 INFO [TRAIN] gen: 55550.10, dis: 55550.10, mse: 52852.50, mse_o: 2016.36, mse_loq: 681.24, cent_minutiae: 681.24
+2017-04-28 17:31:07,726 INFO Epoch 20 of 1000 took 227.93 seconds.
+2017-04-28 17:34:28,323 INFO [TEST] gen: 52715.60, dis: 52715.60, mse: 50596.13, mse_o: 1687.30, mse_loq: 432.16, cent_minutiae: 432.16
+2017-04-28 17:34:28,323 INFO [TRAIN] gen: 51005.07, dis: 51005.07, mse: 48530.43, mse_o: 1942.96, mse_loq: 531.68, cent_minutiae: 531.68
+2017-04-28 17:34:53,968 INFO Epoch 21 of 1000 took 226.24 seconds.
+2017-04-28 17:38:36,764 INFO Epoch 22 of 1000 took 222.79 seconds.
+2017-04-28 17:40:19,518 INFO [TEST] gen: 54811.40, dis: 54811.40, mse: 52840.09, mse_o: 1582.62, mse_loq: 388.68, cent_minutiae: 388.68
+2017-04-28 17:40:19,518 INFO [TRAIN] gen: 46526.74, dis: 46526.74, mse: 44197.77, mse_o: 1910.16, mse_loq: 418.81, cent_minutiae: 418.81
+2017-04-28 17:42:23,079 INFO Epoch 23 of 1000 took 226.31 seconds.
+2017-04-28 17:46:04,592 INFO Epoch 24 of 1000 took 221.51 seconds.
+2017-04-28 17:46:10,766 INFO [TEST] gen: 85233.46, dis: 85233.46, mse: 81716.13, mse_o: 2697.14, mse_loq: 820.19, cent_minutiae: 820.19
+2017-04-28 17:46:10,766 INFO [TRAIN] gen: 40220.72, dis: 40220.72, mse: 38351.11, mse_o: 1587.25, mse_loq: 282.36, cent_minutiae: 282.36
+2017-04-28 17:49:50,969 INFO Epoch 25 of 1000 took 226.38 seconds.
+2017-04-28 17:52:00,091 INFO [TEST] gen: 40672.58, dis: 40672.58, mse: 38817.93, mse_o: 1593.83, mse_loq: 260.82, cent_minutiae: 260.82
+2017-04-28 17:52:00,091 INFO [TRAIN] gen: 37463.36, dis: 37463.36, mse: 35293.63, mse_o: 1878.39, mse_loq: 291.35, cent_minutiae: 291.35
+2017-04-28 17:53:35,869 INFO Epoch 26 of 1000 took 224.90 seconds.
+2017-04-28 17:57:18,193 INFO Epoch 27 of 1000 took 222.32 seconds.
+2017-04-28 17:57:52,713 INFO [TEST] gen: 33132.42, dis: 33132.42, mse: 31508.13, mse_o: 1385.41, mse_loq: 238.88, cent_minutiae: 238.88
+2017-04-28 17:57:52,713 INFO [TRAIN] gen: 34948.16, dis: 34948.16, mse: 32876.61, mse_o: 1800.39, mse_loq: 271.16, cent_minutiae: 271.16
+2017-04-28 18:01:08,109 INFO Epoch 28 of 1000 took 229.91 seconds.
+2017-04-28 18:03:50,338 INFO [TEST] gen: 28895.68, dis: 28895.68, mse: 27393.16, mse_o: 1254.30, mse_loq: 248.22, cent_minutiae: 248.22
+2017-04-28 18:03:50,339 INFO [TRAIN] gen: 31892.91, dis: 31892.91, mse: 29890.81, mse_o: 1740.73, mse_loq: 261.37, cent_minutiae: 261.37
+2017-04-28 18:04:58,396 INFO Epoch 29 of 1000 took 230.29 seconds.
+2017-04-28 18:08:42,265 INFO Epoch 30 of 1000 took 223.87 seconds.
+2017-04-28 18:09:44,726 INFO [TEST] gen: 31767.11, dis: 31767.11, mse: 30097.77, mse_o: 1455.52, mse_loq: 213.82, cent_minutiae: 213.82
+2017-04-28 18:09:44,726 INFO [TRAIN] gen: 28388.19, dis: 28388.19, mse: 26500.03, mse_o: 1639.48, mse_loq: 248.69, cent_minutiae: 248.69
+2017-04-28 18:12:38,023 INFO Epoch 31 of 1000 took 235.76 seconds.
+2017-04-28 18:15:59,609 INFO [TEST] gen: 28454.05, dis: 28454.05, mse: 26992.85, mse_o: 1235.14, mse_loq: 226.06, cent_minutiae: 226.06
+2017-04-28 18:15:59,610 INFO [TRAIN] gen: 28817.90, dis: 28817.90, mse: 26925.13, mse_o: 1642.61, mse_loq: 250.16, cent_minutiae: 250.16
+2017-04-28 18:16:44,693 INFO Epoch 32 of 1000 took 246.67 seconds.
+2017-04-28 18:21:10,703 INFO Epoch 33 of 1000 took 266.01 seconds.
+2017-04-28 18:23:02,663 INFO [TEST] gen: 29542.39, dis: 29542.39, mse: 28126.27, mse_o: 1150.17, mse_loq: 265.95, cent_minutiae: 265.95
+2017-04-28 18:23:02,663 INFO [TRAIN] gen: 26354.90, dis: 26354.90, mse: 24538.29, mse_o: 1580.75, mse_loq: 235.86, cent_minutiae: 235.86
+2017-04-28 18:25:39,516 INFO Epoch 34 of 1000 took 268.81 seconds.
+2017-04-28 18:29:40,778 INFO [TEST] gen: 23871.88, dis: 23871.88, mse: 22347.23, mse_o: 1298.01, mse_loq: 226.64, cent_minutiae: 226.64
+2017-04-28 18:29:40,778 INFO [TRAIN] gen: 25877.81, dis: 25877.81, mse: 24037.62, mse_o: 1600.44, mse_loq: 239.74, cent_minutiae: 239.74
+2017-04-28 18:29:53,093 INFO Epoch 35 of 1000 took 253.58 seconds.
+2017-04-28 18:33:45,614 INFO Epoch 36 of 1000 took 232.52 seconds.
+2017-04-28 18:35:46,862 INFO [TEST] gen: 19522.61, dis: 19522.61, mse: 18190.33, mse_o: 1101.48, mse_loq: 230.80, cent_minutiae: 230.80
+2017-04-28 18:35:46,862 INFO [TRAIN] gen: 23375.46, dis: 23375.46, mse: 21610.11, mse_o: 1539.09, mse_loq: 226.25, cent_minutiae: 226.25
+2017-04-28 18:37:38,133 INFO Epoch 37 of 1000 took 232.52 seconds.
+2017-04-28 18:41:23,809 INFO Epoch 38 of 1000 took 225.68 seconds.
+2017-04-28 18:41:44,188 INFO [TEST] gen: 21163.98, dis: 21163.98, mse: 19630.79, mse_o: 1190.59, mse_loq: 342.60, cent_minutiae: 342.60
+2017-04-28 18:41:44,188 INFO [TRAIN] gen: 20270.76, dis: 20270.76, mse: 18730.25, mse_o: 1333.55, mse_loq: 206.95, cent_minutiae: 206.95
+2017-04-28 18:45:13,871 INFO Epoch 39 of 1000 took 230.06 seconds.
+2017-04-28 18:47:42,475 INFO [TEST] gen: 19150.86, dis: 19150.86, mse: 17788.77, mse_o: 1087.22, mse_loq: 274.86, cent_minutiae: 274.86
+2017-04-28 18:47:42,476 INFO [TRAIN] gen: 21820.66, dis: 21820.66, mse: 20129.19, mse_o: 1467.56, mse_loq: 223.92, cent_minutiae: 223.92
+2017-04-28 18:49:04,622 INFO Epoch 40 of 1000 took 230.75 seconds.
+2017-04-28 18:52:49,164 INFO Epoch 41 of 1000 took 224.54 seconds.
+2017-04-28 18:53:37,263 INFO [TEST] gen: 16623.70, dis: 16623.70, mse: 15414.09, mse_o: 997.23, mse_loq: 212.38, cent_minutiae: 212.38
+2017-04-28 18:53:37,263 INFO [TRAIN] gen: 20496.05, dis: 20496.05, mse: 18846.80, mse_o: 1430.17, mse_loq: 219.09, cent_minutiae: 219.09
+2017-04-28 18:56:37,799 INFO Epoch 42 of 1000 took 228.63 seconds.
+2017-04-28 18:59:32,864 INFO [TEST] gen: 18998.99, dis: 18998.99, mse: 17635.62, mse_o: 1142.84, mse_loq: 220.53, cent_minutiae: 220.53
+2017-04-28 18:59:32,864 INFO [TRAIN] gen: 20702.88, dis: 20702.88, mse: 19022.74, mse_o: 1462.56, mse_loq: 217.58, cent_minutiae: 217.58
+2017-04-28 19:00:27,474 INFO Epoch 43 of 1000 took 229.67 seconds.
+2017-04-28 19:04:11,027 INFO Epoch 44 of 1000 took 223.55 seconds.
+2017-04-28 19:05:27,347 INFO [TEST] gen: 36984.09, dis: 36984.09, mse: 35506.79, mse_o: 1211.68, mse_loq: 265.63, cent_minutiae: 265.63
+2017-04-28 19:05:27,347 INFO [TRAIN] gen: 23172.02, dis: 23172.02, mse: 21367.99, mse_o: 1544.09, mse_loq: 259.94, cent_minutiae: 259.94
+2017-04-28 19:08:00,044 INFO Epoch 45 of 1000 took 229.02 seconds.
+2017-04-28 19:11:25,731 INFO [TEST] gen: 15456.38, dis: 15456.38, mse: 14249.89, mse_o: 1047.35, mse_loq: 159.13, cent_minutiae: 159.13
+2017-04-28 19:11:25,731 INFO [TRAIN] gen: 18299.39, dis: 18299.39, mse: 16733.17, mse_o: 1360.83, mse_loq: 205.39, cent_minutiae: 205.39
+2017-04-28 19:11:52,011 INFO Epoch 46 of 1000 took 231.97 seconds.
+2017-04-28 19:15:40,241 INFO Epoch 47 of 1000 took 228.23 seconds.
+2017-04-28 19:17:27,670 INFO [TEST] gen: 14474.38, dis: 14474.38, mse: 13196.19, mse_o: 1098.84, mse_loq: 179.35, cent_minutiae: 179.35
+2017-04-28 19:17:27,670 INFO [TRAIN] gen: 17229.75, dis: 17229.75, mse: 15668.57, mse_o: 1372.77, mse_loq: 188.41, cent_minutiae: 188.41
+2017-04-28 19:19:33,281 INFO Epoch 48 of 1000 took 233.04 seconds.
+2017-04-28 19:23:18,068 INFO Epoch 49 of 1000 took 224.79 seconds.
+2017-04-28 19:23:24,384 INFO [TEST] gen: 14204.13, dis: 14204.13, mse: 13156.74, mse_o: 904.85, mse_loq: 142.54, cent_minutiae: 142.54
+2017-04-28 19:23:24,385 INFO [TRAIN] gen: 15591.20, dis: 15591.20, mse: 14096.22, mse_o: 1293.80, mse_loq: 201.17, cent_minutiae: 201.17
+2017-04-28 19:27:08,989 INFO Epoch 50 of 1000 took 230.92 seconds.
+2017-04-28 19:29:43,756 INFO [TEST] gen: 13153.37, dis: 13153.37, mse: 12123.63, mse_o: 880.24, mse_loq: 149.51, cent_minutiae: 149.51
+2017-04-28 19:29:43,757 INFO [TRAIN] gen: 16126.41, dis: 16126.41, mse: 14620.63, mse_o: 1319.73, mse_loq: 186.05, cent_minutiae: 186.05
+2017-04-28 19:31:21,747 INFO Epoch 51 of 1000 took 230.88 seconds.
+2017-04-28 19:35:14,373 INFO Epoch 52 of 1000 took 232.62 seconds.
+2017-04-28 19:35:50,314 INFO [TEST] gen: 13677.90, dis: 13677.90, mse: 12591.06, mse_o: 942.86, mse_loq: 143.97, cent_minutiae: 143.97
+2017-04-28 19:35:50,314 INFO [TRAIN] gen: 14050.23, dis: 14050.23, mse: 12649.90, mse_o: 1229.00, mse_loq: 171.33, cent_minutiae: 171.33
+2017-04-28 19:39:12,176 INFO Epoch 53 of 1000 took 237.80 seconds.
+2017-04-28 19:41:59,832 INFO [TEST] gen: 13040.99, dis: 13040.99, mse: 12020.31, mse_o: 883.12, mse_loq: 137.56, cent_minutiae: 137.56
+2017-04-28 19:41:59,833 INFO [TRAIN] gen: 13905.96, dis: 13905.96, mse: 12478.82, mse_o: 1260.32, mse_loq: 166.83, cent_minutiae: 166.83
+2017-04-28 19:43:10,744 INFO Epoch 54 of 1000 took 238.57 seconds.
+2017-04-28 19:47:04,384 INFO Epoch 55 of 1000 took 233.64 seconds.
+2017-04-28 19:48:09,572 INFO [TEST] gen: 11049.86, dis: 11049.86, mse: 10077.71, mse_o: 853.95, mse_loq: 118.21, cent_minutiae: 118.21
+2017-04-28 19:48:09,572 INFO [TRAIN] gen: 13596.04, dis: 13596.04, mse: 12235.37, mse_o: 1198.32, mse_loq: 162.35, cent_minutiae: 162.35
+2017-04-28 19:51:01,396 INFO Epoch 56 of 1000 took 237.01 seconds.
+2017-04-28 19:54:16,701 INFO [TEST] gen: 10235.40, dis: 10235.40, mse: 9280.77, mse_o: 825.79, mse_loq: 128.83, cent_minutiae: 128.83
+2017-04-28 19:54:16,701 INFO [TRAIN] gen: 12675.75, dis: 12675.75, mse: 11324.11, mse_o: 1200.09, mse_loq: 151.55, cent_minutiae: 151.55
+2017-04-28 19:54:58,216 INFO Epoch 57 of 1000 took 236.82 seconds.
+2017-04-28 19:58:57,334 INFO Epoch 58 of 1000 took 239.12 seconds.
+2017-04-28 20:00:32,807 INFO [TEST] gen: 10795.67, dis: 10795.67, mse: 9815.32, mse_o: 828.83, mse_loq: 151.51, cent_minutiae: 151.51
+2017-04-28 20:00:32,807 INFO [TRAIN] gen: 12999.67, dis: 12999.67, mse: 11594.36, mse_o: 1247.31, mse_loq: 158.00, cent_minutiae: 158.00
+2017-04-28 20:02:59,261 INFO Epoch 59 of 1000 took 241.93 seconds.
+2017-04-28 20:06:53,445 INFO [TEST] gen: 10863.13, dis: 10863.13, mse: 9825.74, mse_o: 915.94, mse_loq: 121.44, cent_minutiae: 121.44
+2017-04-28 20:06:53,445 INFO [TRAIN] gen: 12165.68, dis: 12165.68, mse: 10809.74, mse_o: 1211.36, mse_loq: 144.58, cent_minutiae: 144.58
+2017-04-28 20:07:06,345 INFO Epoch 60 of 1000 took 247.08 seconds.
+2017-04-28 20:11:09,646 INFO Epoch 61 of 1000 took 243.30 seconds.
+2017-04-28 20:13:17,903 INFO [TEST] gen: 10322.02, dis: 10322.02, mse: 9404.53, mse_o: 790.64, mse_loq: 126.85, cent_minutiae: 126.85
+2017-04-28 20:13:17,903 INFO [TRAIN] gen: 11029.33, dis: 11029.33, mse: 9741.38, mse_o: 1155.81, mse_loq: 132.14, cent_minutiae: 132.14
+2017-04-28 20:15:14,858 INFO Epoch 62 of 1000 took 245.20 seconds.
+2017-04-28 20:19:10,168 INFO Epoch 63 of 1000 took 235.31 seconds.
+2017-04-28 20:19:31,379 INFO [TEST] gen: 9329.58, dis: 9329.58, mse: 8469.81, mse_o: 749.45, mse_loq: 110.32, cent_minutiae: 110.32
+2017-04-28 20:19:31,379 INFO [TRAIN] gen: 11823.69, dis: 11823.69, mse: 10543.46, mse_o: 1141.07, mse_loq: 139.16, cent_minutiae: 139.16
+2017-04-28 20:23:12,330 INFO Epoch 64 of 1000 took 242.16 seconds.
+2017-04-28 20:25:44,701 INFO [TEST] gen: 9653.21, dis: 9653.21, mse: 8685.02, mse_o: 871.23, mse_loq: 96.97, cent_minutiae: 96.97
+2017-04-28 20:25:44,701 INFO [TRAIN] gen: 10579.81, dis: 10579.81, mse: 9300.55, mse_o: 1155.21, mse_loq: 124.05, cent_minutiae: 124.05
+2017-04-28 20:27:08,452 INFO Epoch 65 of 1000 took 236.12 seconds.
+2017-04-28 20:30:56,645 INFO Epoch 66 of 1000 took 228.19 seconds.
+2017-04-28 20:31:45,579 INFO [TEST] gen: 8726.68, dis: 8726.68, mse: 7808.97, mse_o: 811.42, mse_loq: 106.29, cent_minutiae: 106.29
+2017-04-28 20:31:45,579 INFO [TRAIN] gen: 10265.08, dis: 10265.08, mse: 9023.09, mse_o: 1127.46, mse_loq: 114.54, cent_minutiae: 114.54
+2017-04-28 20:34:47,901 INFO Epoch 67 of 1000 took 231.26 seconds.
+2017-04-28 20:37:44,004 INFO [TEST] gen: 9241.01, dis: 9241.01, mse: 8385.90, mse_o: 780.25, mse_loq: 74.86, cent_minutiae: 74.86
+2017-04-28 20:37:44,004 INFO [TRAIN] gen: 10150.79, dis: 10150.79, mse: 8910.21, mse_o: 1123.73, mse_loq: 116.85, cent_minutiae: 116.85
+2017-04-28 20:38:38,840 INFO Epoch 68 of 1000 took 230.94 seconds.
+2017-04-28 20:42:25,806 INFO Epoch 69 of 1000 took 226.96 seconds.
+2017-04-28 20:43:43,728 INFO [TEST] gen: 7800.55, dis: 7800.55, mse: 7042.45, mse_o: 702.54, mse_loq: 55.57, cent_minutiae: 55.57
+2017-04-28 20:43:43,728 INFO [TRAIN] gen: 9520.29, dis: 9520.29, mse: 8295.15, mse_o: 1121.28, mse_loq: 103.86, cent_minutiae: 103.86
+2017-04-28 20:46:20,291 INFO Epoch 70 of 1000 took 234.48 seconds.
+2017-04-28 20:49:49,147 INFO [TEST] gen: 8156.17, dis: 8156.17, mse: 7347.07, mse_o: 737.36, mse_loq: 71.74, cent_minutiae: 71.74
+2017-04-28 20:49:49,147 INFO [TRAIN] gen: 9817.17, dis: 9817.17, mse: 8593.50, mse_o: 1113.82, mse_loq: 109.85, cent_minutiae: 109.85
+2017-04-28 20:50:16,698 INFO Epoch 71 of 1000 took 236.41 seconds.
+2017-04-28 20:54:18,028 INFO Epoch 72 of 1000 took 241.33 seconds.
+2017-04-28 20:56:09,557 INFO [TEST] gen: 8206.83, dis: 8206.83, mse: 7304.25, mse_o: 837.72, mse_loq: 64.85, cent_minutiae: 64.85
+2017-04-28 20:56:09,557 INFO [TRAIN] gen: 9210.56, dis: 9210.56, mse: 8003.19, mse_o: 1109.44, mse_loq: 97.94, cent_minutiae: 97.94
+2017-04-28 20:58:24,710 INFO Epoch 73 of 1000 took 246.68 seconds.
+2017-04-28 21:02:24,969 INFO Epoch 74 of 1000 took 240.26 seconds.
+2017-04-28 21:02:31,603 INFO [TEST] gen: 8104.59, dis: 8104.59, mse: 7146.22, mse_o: 884.38, mse_loq: 73.99, cent_minutiae: 73.99
+2017-04-28 21:02:31,603 INFO [TRAIN] gen: 8758.65, dis: 8758.65, mse: 7499.23, mse_o: 1153.49, mse_loq: 105.93, cent_minutiae: 105.93
+2017-04-28 21:06:27,543 INFO Epoch 75 of 1000 took 242.57 seconds.
+2017-04-28 21:08:48,630 INFO [TEST] gen: 8132.81, dis: 8132.81, mse: 7241.38, mse_o: 828.87, mse_loq: 62.56, cent_minutiae: 62.56
+2017-04-28 21:08:48,630 INFO [TRAIN] gen: 9204.85, dis: 9204.85, mse: 7994.89, mse_o: 1113.90, mse_loq: 96.05, cent_minutiae: 96.05
+2017-04-28 21:10:30,380 INFO Epoch 76 of 1000 took 242.84 seconds.
+2017-04-28 21:14:26,416 INFO Epoch 77 of 1000 took 236.04 seconds.
+2017-04-28 21:15:01,418 INFO [TEST] gen: 7355.36, dis: 7355.36, mse: 6650.79, mse_o: 647.47, mse_loq: 57.10, cent_minutiae: 57.10
+2017-04-28 21:15:01,418 INFO [TRAIN] gen: 8518.31, dis: 8518.31, mse: 7377.83, mse_o: 1054.41, mse_loq: 86.08, cent_minutiae: 86.08
+2017-04-28 21:18:18,824 INFO Epoch 78 of 1000 took 232.41 seconds.
+2017-04-28 21:21:02,270 INFO [TEST] gen: 7784.33, dis: 7784.33, mse: 7059.36, mse_o: 655.96, mse_loq: 69.01, cent_minutiae: 69.01
+2017-04-28 21:21:02,270 INFO [TRAIN] gen: 8676.11, dis: 8676.11, mse: 7525.62, mse_o: 1064.37, mse_loq: 86.12, cent_minutiae: 86.12
+2017-04-28 21:22:10,688 INFO Epoch 79 of 1000 took 231.86 seconds.
+2017-04-28 21:25:57,066 INFO Epoch 80 of 1000 took 226.38 seconds.
+2017-04-28 21:27:01,047 INFO [TEST] gen: 7851.79, dis: 7851.79, mse: 6920.65, mse_o: 884.75, mse_loq: 46.39, cent_minutiae: 46.39
+2017-04-28 21:27:01,047 INFO [TRAIN] gen: 8245.42, dis: 8245.42, mse: 7120.45, mse_o: 1041.63, mse_loq: 83.35, cent_minutiae: 83.35
+2017-04-28 21:29:51,136 INFO Epoch 81 of 1000 took 234.07 seconds.
+2017-04-28 21:33:04,653 INFO [TEST] gen: 7164.92, dis: 7164.92, mse: 6371.96, mse_o: 738.23, mse_loq: 54.73, cent_minutiae: 54.73
+2017-04-28 21:33:04,654 INFO [TRAIN] gen: 8262.30, dis: 8262.30, mse: 7121.59, mse_o: 1061.34, mse_loq: 79.37, cent_minutiae: 79.37
+2017-04-28 21:33:45,770 INFO Epoch 82 of 1000 took 234.63 seconds.
+2017-04-28 21:37:36,204 INFO Epoch 83 of 1000 took 230.43 seconds.
+2017-04-28 21:39:09,209 INFO [TEST] gen: 6681.84, dis: 6681.84, mse: 5847.10, mse_o: 787.06, mse_loq: 47.68, cent_minutiae: 47.68
+2017-04-28 21:39:09,209 INFO [TRAIN] gen: 7942.64, dis: 7942.64, mse: 6798.16, mse_o: 1075.23, mse_loq: 69.24, cent_minutiae: 69.24
+2017-04-28 21:41:30,798 INFO Epoch 84 of 1000 took 234.59 seconds.
+2017-04-28 21:45:12,384 INFO [TEST] gen: 8315.39, dis: 8315.39, mse: 7481.84, mse_o: 783.78, mse_loq: 49.77, cent_minutiae: 49.77
+2017-04-28 21:45:12,384 INFO [TRAIN] gen: 7717.20, dis: 7717.20, mse: 6597.17, mse_o: 1053.14, mse_loq: 66.89, cent_minutiae: 66.89
+2017-04-28 21:45:24,652 INFO Epoch 85 of 1000 took 233.85 seconds.
+2017-04-28 21:49:15,044 INFO Epoch 86 of 1000 took 230.39 seconds.
+2017-04-28 21:51:16,528 INFO [TEST] gen: 7124.75, dis: 7124.75, mse: 6301.51, mse_o: 784.10, mse_loq: 39.14, cent_minutiae: 39.14
+2017-04-28 21:51:16,528 INFO [TRAIN] gen: 7859.74, dis: 7859.74, mse: 6710.00, mse_o: 1081.43, mse_loq: 68.32, cent_minutiae: 68.32
+2017-04-28 21:53:09,386 INFO Epoch 87 of 1000 took 234.34 seconds.
+2017-04-28 21:56:59,244 INFO Epoch 88 of 1000 took 229.86 seconds.
+2017-04-28 21:57:20,154 INFO [TEST] gen: 7333.49, dis: 7333.49, mse: 6554.46, mse_o: 737.72, mse_loq: 41.30, cent_minutiae: 41.30
+2017-04-28 21:57:20,154 INFO [TRAIN] gen: 7405.55, dis: 7405.55, mse: 6308.19, mse_o: 1035.82, mse_loq: 61.54, cent_minutiae: 61.54
+2017-04-28 22:00:53,737 INFO Epoch 89 of 1000 took 234.49 seconds.
+2017-04-28 22:03:24,217 INFO [TEST] gen: 7292.09, dis: 7292.09, mse: 6465.19, mse_o: 776.86, mse_loq: 50.03, cent_minutiae: 50.03
+2017-04-28 22:03:24,218 INFO [TRAIN] gen: 7366.49, dis: 7366.49, mse: 6276.18, mse_o: 1032.05, mse_loq: 58.25, cent_minutiae: 58.25
+2017-04-28 22:04:48,175 INFO Epoch 90 of 1000 took 234.44 seconds.
+2017-04-28 22:08:38,918 INFO Epoch 91 of 1000 took 230.74 seconds.
+2017-04-28 22:09:28,763 INFO [TEST] gen: 7206.05, dis: 7206.05, mse: 6508.32, mse_o: 647.69, mse_loq: 50.04, cent_minutiae: 50.04
+2017-04-28 22:09:28,763 INFO [TRAIN] gen: 7421.21, dis: 7421.21, mse: 6263.34, mse_o: 1098.17, mse_loq: 59.69, cent_minutiae: 59.69
+2017-04-28 22:12:33,323 INFO Epoch 92 of 1000 took 234.40 seconds.
+2017-04-28 22:15:32,570 INFO [TEST] gen: 6674.19, dis: 6674.19, mse: 5852.30, mse_o: 762.51, mse_loq: 59.37, cent_minutiae: 59.37
+2017-04-28 22:15:32,570 INFO [TRAIN] gen: 7067.85, dis: 7067.85, mse: 5994.49, mse_o: 1021.18, mse_loq: 52.18, cent_minutiae: 52.18
+2017-04-28 22:16:28,148 INFO Epoch 93 of 1000 took 234.82 seconds.
+2017-04-28 22:20:19,188 INFO Epoch 94 of 1000 took 231.04 seconds.
+2017-04-28 22:21:37,370 INFO [TEST] gen: 6322.70, dis: 6322.70, mse: 5529.13, mse_o: 758.34, mse_loq: 35.23, cent_minutiae: 35.23
+2017-04-28 22:21:37,371 INFO [TRAIN] gen: 6981.49, dis: 6981.49, mse: 5920.16, mse_o: 1010.41, mse_loq: 50.92, cent_minutiae: 50.92
+2017-04-28 22:24:13,739 INFO Epoch 95 of 1000 took 234.55 seconds.
+2017-04-28 22:27:42,187 INFO [TEST] gen: 5957.06, dis: 5957.06, mse: 5132.30, mse_o: 791.57, mse_loq: 33.19, cent_minutiae: 33.19
+2017-04-28 22:27:42,187 INFO [TRAIN] gen: 6971.02, dis: 6971.02, mse: 5919.30, mse_o: 1001.04, mse_loq: 50.68, cent_minutiae: 50.68
+2017-04-28 22:28:08,862 INFO Epoch 96 of 1000 took 235.12 seconds.
+2017-04-28 22:31:59,540 INFO Epoch 97 of 1000 took 230.68 seconds.
+2017-04-28 22:33:47,306 INFO [TEST] gen: 6738.23, dis: 6738.23, mse: 5921.02, mse_o: 768.08, mse_loq: 49.13, cent_minutiae: 49.13
+2017-04-28 22:33:47,307 INFO [TRAIN] gen: 6774.64, dis: 6774.64, mse: 5681.74, mse_o: 1045.34, mse_loq: 47.55, cent_minutiae: 47.55
+2017-04-28 22:35:55,071 INFO Epoch 98 of 1000 took 235.53 seconds.
+2017-04-28 22:39:45,768 INFO Epoch 99 of 1000 took 230.70 seconds.
+2017-04-28 22:39:52,212 INFO [TEST] gen: 6473.18, dis: 6473.18, mse: 5508.36, mse_o: 916.61, mse_loq: 48.22, cent_minutiae: 48.22
+2017-04-28 22:39:52,212 INFO [TRAIN] gen: 6319.67, dis: 6319.67, mse: 5417.48, mse_o: 861.06, mse_loq: 41.13, cent_minutiae: 41.13
+2017-04-28 22:43:40,947 INFO Epoch 100 of 1000 took 235.18 seconds.
+2017-04-28 22:46:15,557 INFO [TEST] gen: 6534.24, dis: 6534.24, mse: 5645.56, mse_o: 845.10, mse_loq: 43.59, cent_minutiae: 43.59
+2017-04-28 22:46:15,557 INFO [TRAIN] gen: 6603.74, dis: 6603.74, mse: 5581.95, mse_o: 979.00, mse_loq: 42.79, cent_minutiae: 42.79
+2017-04-28 22:47:54,333 INFO Epoch 101 of 1000 took 234.94 seconds.
+2017-04-28 22:51:45,253 INFO Epoch 102 of 1000 took 230.92 seconds.
+2017-04-28 22:52:20,606 INFO [TEST] gen: 6081.99, dis: 6081.99, mse: 5340.22, mse_o: 700.73, mse_loq: 41.04, cent_minutiae: 41.04
+2017-04-28 22:52:20,607 INFO [TRAIN] gen: 6400.08, dis: 6400.08, mse: 5456.73, mse_o: 901.68, mse_loq: 41.67, cent_minutiae: 41.67
+2017-04-28 22:55:40,621 INFO Epoch 103 of 1000 took 235.37 seconds.
+2017-04-28 22:58:26,451 INFO [TEST] gen: 5729.51, dis: 5729.51, mse: 4960.66, mse_o: 720.90, mse_loq: 47.95, cent_minutiae: 47.95
+2017-04-28 22:58:26,452 INFO [TRAIN] gen: 6414.64, dis: 6414.64, mse: 5372.56, mse_o: 1000.58, mse_loq: 41.50, cent_minutiae: 41.50
+2017-04-28 22:59:36,779 INFO Epoch 104 of 1000 took 236.16 seconds.
+2017-04-28 23:03:27,624 INFO Epoch 105 of 1000 took 230.84 seconds.
+2017-04-28 23:04:31,707 INFO [TEST] gen: 6601.47, dis: 6601.47, mse: 5624.44, mse_o: 940.27, mse_loq: 36.76, cent_minutiae: 36.76
+2017-04-28 23:04:31,707 INFO [TRAIN] gen: 6148.84, dis: 6148.84, mse: 5158.71, mse_o: 953.73, mse_loq: 36.40, cent_minutiae: 36.40
+2017-04-28 23:07:22,161 INFO Epoch 106 of 1000 took 234.54 seconds.
+2017-04-28 23:10:35,984 INFO [TEST] gen: 5971.21, dis: 5971.21, mse: 5275.43, mse_o: 672.73, mse_loq: 23.04, cent_minutiae: 23.04
+2017-04-28 23:10:35,984 INFO [TRAIN] gen: 6303.83, dis: 6303.83, mse: 5304.56, mse_o: 961.42, mse_loq: 37.84, cent_minutiae: 37.84
+2017-04-28 23:11:16,931 INFO Epoch 107 of 1000 took 234.77 seconds.
+2017-04-28 23:15:08,584 INFO Epoch 108 of 1000 took 231.65 seconds.
+2017-04-28 23:16:41,887 INFO [TEST] gen: 6225.61, dis: 6225.61, mse: 5448.42, mse_o: 741.16, mse_loq: 36.03, cent_minutiae: 36.03
+2017-04-28 23:16:41,887 INFO [TRAIN] gen: 6093.09, dis: 6093.09, mse: 5129.69, mse_o: 929.00, mse_loq: 34.40, cent_minutiae: 34.40
+2017-04-28 23:19:04,181 INFO Epoch 109 of 1000 took 235.60 seconds.
+2017-04-28 23:22:47,385 INFO [TEST] gen: 6186.89, dis: 6186.89, mse: 5463.93, mse_o: 682.37, mse_loq: 40.59, cent_minutiae: 40.59
+2017-04-28 23:22:47,386 INFO [TRAIN] gen: 6076.77, dis: 6076.77, mse: 5086.53, mse_o: 954.01, mse_loq: 36.23, cent_minutiae: 36.23
+2017-04-28 23:22:59,773 INFO Epoch 110 of 1000 took 235.59 seconds.
+2017-04-28 23:26:51,661 INFO Epoch 111 of 1000 took 231.89 seconds.
+2017-04-28 23:28:53,446 INFO [TEST] gen: 6279.08, dis: 6279.08, mse: 5537.60, mse_o: 701.96, mse_loq: 39.52, cent_minutiae: 39.52
+2017-04-28 23:28:53,446 INFO [TRAIN] gen: 5880.83, dis: 5880.83, mse: 4955.65, mse_o: 893.43, mse_loq: 31.76, cent_minutiae: 31.76
+2017-04-28 23:30:47,025 INFO Epoch 112 of 1000 took 235.36 seconds.
+2017-04-28 23:34:38,054 INFO Epoch 113 of 1000 took 231.03 seconds.
+2017-04-28 23:34:59,047 INFO [TEST] gen: 6326.21, dis: 6326.21, mse: 5628.99, mse_o: 666.43, mse_loq: 30.79, cent_minutiae: 30.79
+2017-04-28 23:34:59,048 INFO [TRAIN] gen: 5868.62, dis: 5868.62, mse: 4863.51, mse_o: 966.96, mse_loq: 38.15, cent_minutiae: 38.15
+2017-04-28 23:38:34,367 INFO Epoch 114 of 1000 took 236.31 seconds.
+2017-04-28 23:41:04,820 INFO [TEST] gen: 5139.28, dis: 5139.28, mse: 4431.14, mse_o: 671.16, mse_loq: 36.98, cent_minutiae: 36.98
+2017-04-28 23:41:04,821 INFO [TRAIN] gen: 5816.10, dis: 5816.10, mse: 4880.06, mse_o: 904.01, mse_loq: 32.03, cent_minutiae: 32.03
+2017-04-28 23:42:28,789 INFO Epoch 115 of 1000 took 234.42 seconds.
+2017-04-28 23:46:19,988 INFO Epoch 116 of 1000 took 231.20 seconds.
+2017-04-28 23:47:09,727 INFO [TEST] gen: 5280.29, dis: 5280.29, mse: 4685.10, mse_o: 569.55, mse_loq: 25.64, cent_minutiae: 25.64
+2017-04-28 23:47:09,727 INFO [TRAIN] gen: 5765.24, dis: 5765.24, mse: 4807.38, mse_o: 927.78, mse_loq: 30.07, cent_minutiae: 30.07
+2017-04-28 23:50:15,818 INFO Epoch 117 of 1000 took 235.83 seconds.
+2017-04-28 23:53:16,194 INFO [TEST] gen: 5277.04, dis: 5277.04, mse: 4605.69, mse_o: 651.25, mse_loq: 20.10, cent_minutiae: 20.10
+2017-04-28 23:53:16,195 INFO [TRAIN] gen: 5719.37, dis: 5719.37, mse: 4780.98, mse_o: 908.33, mse_loq: 30.06, cent_minutiae: 30.06
+2017-04-28 23:54:12,255 INFO Epoch 118 of 1000 took 236.43 seconds.
+2017-04-28 23:58:04,556 INFO Epoch 119 of 1000 took 232.30 seconds.
+2017-04-28 23:59:23,665 INFO [TEST] gen: 5020.94, dis: 5020.94, mse: 4393.69, mse_o: 597.50, mse_loq: 29.75, cent_minutiae: 29.75
+2017-04-28 23:59:23,666 INFO [TRAIN] gen: 5651.90, dis: 5651.90, mse: 4700.70, mse_o: 919.80, mse_loq: 31.41, cent_minutiae: 31.41
+2017-04-29 00:02:00,981 INFO Epoch 120 of 1000 took 236.42 seconds.
+2017-04-29 00:05:30,396 INFO [TEST] gen: 5276.58, dis: 5276.58, mse: 4614.06, mse_o: 636.96, mse_loq: 25.57, cent_minutiae: 25.57
+2017-04-29 00:05:30,396 INFO [TRAIN] gen: 5541.38, dis: 5541.38, mse: 4629.53, mse_o: 882.99, mse_loq: 28.86, cent_minutiae: 28.86
+2017-04-29 00:05:57,294 INFO Epoch 121 of 1000 took 236.31 seconds.
+2017-04-29 00:09:49,488 INFO Epoch 122 of 1000 took 232.19 seconds.
+2017-04-29 00:11:37,387 INFO [TEST] gen: 4797.58, dis: 4797.58, mse: 4207.32, mse_o: 575.26, mse_loq: 15.00, cent_minutiae: 15.00
+2017-04-29 00:11:37,387 INFO [TRAIN] gen: 5395.32, dis: 5395.32, mse: 4512.87, mse_o: 852.57, mse_loq: 29.88, cent_minutiae: 29.88
+2017-04-29 00:13:45,476 INFO Epoch 123 of 1000 took 235.99 seconds.
+2017-04-29 00:17:36,212 INFO Epoch 124 of 1000 took 230.73 seconds.
+2017-04-29 00:17:42,726 INFO [TEST] gen: 5156.11, dis: 5156.11, mse: 4394.77, mse_o: 744.10, mse_loq: 17.24, cent_minutiae: 17.24
+2017-04-29 00:17:42,726 INFO [TRAIN] gen: 5907.04, dis: 5907.04, mse: 4797.85, mse_o: 1080.88, mse_loq: 28.32, cent_minutiae: 28.32
+2017-04-29 00:21:31,322 INFO Epoch 125 of 1000 took 235.11 seconds.
+2017-04-29 00:23:47,845 INFO [TEST] gen: 4801.90, dis: 4801.90, mse: 4228.47, mse_o: 556.86, mse_loq: 16.57, cent_minutiae: 16.57
+2017-04-29 00:23:47,845 INFO [TRAIN] gen: 5526.60, dis: 5526.60, mse: 4563.48, mse_o: 932.94, mse_loq: 30.18, cent_minutiae: 30.18
+2017-04-29 00:25:26,954 INFO Epoch 126 of 1000 took 235.63 seconds.
+2017-04-29 00:29:17,601 INFO Epoch 127 of 1000 took 230.65 seconds.
+2017-04-29 00:29:53,166 INFO [TEST] gen: 5421.25, dis: 5421.25, mse: 4873.36, mse_o: 529.30, mse_loq: 18.59, cent_minutiae: 18.59
+2017-04-29 00:29:53,167 INFO [TRAIN] gen: 5318.62, dis: 5318.62, mse: 4448.79, mse_o: 842.99, mse_loq: 26.84, cent_minutiae: 26.84
+2017-04-29 00:33:12,961 INFO Epoch 128 of 1000 took 235.36 seconds.
+2017-04-29 00:35:57,836 INFO [TEST] gen: 5597.81, dis: 5597.81, mse: 4632.85, mse_o: 943.83, mse_loq: 21.12, cent_minutiae: 21.12
+2017-04-29 00:35:57,836 INFO [TRAIN] gen: 5219.06, dis: 5219.06, mse: 4316.37, mse_o: 876.11, mse_loq: 26.58, cent_minutiae: 26.58
+2017-04-29 00:37:07,565 INFO Epoch 129 of 1000 took 234.60 seconds.
+2017-04-29 00:41:04,111 INFO Epoch 130 of 1000 took 236.55 seconds.
+2017-04-29 00:42:10,815 INFO [TEST] gen: 5064.72, dis: 5064.72, mse: 4471.22, mse_o: 567.16, mse_loq: 26.34, cent_minutiae: 26.34
+2017-04-29 00:42:10,815 INFO [TRAIN] gen: 5240.17, dis: 5240.17, mse: 4313.31, mse_o: 898.40, mse_loq: 28.46, cent_minutiae: 28.46
+2017-04-29 00:45:19,465 INFO Epoch 131 of 1000 took 255.35 seconds.
+2017-04-29 00:48:51,380 INFO [TEST] gen: 4902.57, dis: 4902.57, mse: 4394.37, mse_o: 488.91, mse_loq: 19.29, cent_minutiae: 19.29
+2017-04-29 00:48:51,380 INFO [TRAIN] gen: 5194.58, dis: 5194.58, mse: 4293.12, mse_o: 875.23, mse_loq: 26.22, cent_minutiae: 26.22
+2017-04-29 00:49:36,419 INFO Epoch 132 of 1000 took 256.95 seconds.
+2017-04-29 00:53:46,302 INFO Epoch 133 of 1000 took 249.87 seconds.
+2017-04-29 00:55:28,137 INFO [TEST] gen: 5228.06, dis: 5228.06, mse: 4663.43, mse_o: 543.78, mse_loq: 20.84, cent_minutiae: 20.84
+2017-04-29 00:55:28,138 INFO [TRAIN] gen: 5228.04, dis: 5228.04, mse: 4280.69, mse_o: 920.32, mse_loq: 27.03, cent_minutiae: 27.03
+2017-04-29 00:58:02,479 INFO Epoch 134 of 1000 took 256.18 seconds.
+2017-04-29 01:02:05,383 INFO [TEST] gen: 4652.19, dis: 4652.19, mse: 4111.87, mse_o: 516.73, mse_loq: 23.59, cent_minutiae: 23.59
+2017-04-29 01:02:05,383 INFO [TRAIN] gen: 5111.51, dis: 5111.51, mse: 4238.10, mse_o: 848.13, mse_loq: 25.28, cent_minutiae: 25.28
+2017-04-29 01:02:19,081 INFO Epoch 135 of 1000 took 256.60 seconds.
+2017-04-29 01:06:31,841 INFO Epoch 136 of 1000 took 252.76 seconds.
+2017-04-29 01:08:43,913 INFO [TEST] gen: 4645.37, dis: 4645.37, mse: 4122.74, mse_o: 496.43, mse_loq: 26.20, cent_minutiae: 26.20
+2017-04-29 01:08:43,914 INFO [TRAIN] gen: 4962.38, dis: 4962.38, mse: 4089.46, mse_o: 848.51, mse_loq: 24.41, cent_minutiae: 24.41
+2017-04-29 01:10:47,220 INFO Epoch 137 of 1000 took 255.38 seconds.
+2017-04-29 01:14:58,991 INFO Epoch 138 of 1000 took 251.77 seconds.
+2017-04-29 01:15:22,243 INFO [TEST] gen: 4725.67, dis: 4725.67, mse: 4227.66, mse_o: 486.80, mse_loq: 11.21, cent_minutiae: 11.21
+2017-04-29 01:15:22,243 INFO [TRAIN] gen: 4966.85, dis: 4966.85, mse: 4133.57, mse_o: 808.19, mse_loq: 25.10, cent_minutiae: 25.10
+2017-04-29 01:19:15,968 INFO Epoch 139 of 1000 took 256.98 seconds.
+2017-04-29 01:22:01,438 INFO [TEST] gen: 4801.08, dis: 4801.08, mse: 4302.68, mse_o: 481.76, mse_loq: 16.64, cent_minutiae: 16.64
+2017-04-29 01:22:01,439 INFO [TRAIN] gen: 5017.68, dis: 5017.68, mse: 4123.77, mse_o: 866.48, mse_loq: 27.43, cent_minutiae: 27.43
+2017-04-29 01:23:33,612 INFO Epoch 140 of 1000 took 257.64 seconds.
+2017-04-29 01:27:43,702 INFO Epoch 141 of 1000 took 250.09 seconds.
+2017-04-29 01:28:37,551 INFO [TEST] gen: 4970.18, dis: 4970.18, mse: 4423.78, mse_o: 519.66, mse_loq: 26.75, cent_minutiae: 26.75
+2017-04-29 01:28:37,551 INFO [TRAIN] gen: 4860.14, dis: 4860.14, mse: 3961.34, mse_o: 874.06, mse_loq: 24.74, cent_minutiae: 24.74
+2017-04-29 01:31:58,967 INFO Epoch 142 of 1000 took 255.26 seconds.
+2017-04-29 01:35:13,485 INFO [TEST] gen: 5082.37, dis: 5082.37, mse: 4340.01, mse_o: 726.96, mse_loq: 15.40, cent_minutiae: 15.40
+2017-04-29 01:35:13,485 INFO [TRAIN] gen: 4869.66, dis: 4869.66, mse: 4003.23, mse_o: 841.66, mse_loq: 24.77, cent_minutiae: 24.77
+2017-04-29 01:36:13,869 INFO Epoch 143 of 1000 took 254.90 seconds.
+2017-04-29 01:40:24,518 INFO Epoch 144 of 1000 took 250.65 seconds.
+2017-04-29 01:41:49,584 INFO [TEST] gen: 4923.12, dis: 4923.12, mse: 4388.72, mse_o: 513.04, mse_loq: 21.35, cent_minutiae: 21.35
+2017-04-29 01:41:49,584 INFO [TRAIN] gen: 4860.03, dis: 4860.03, mse: 3952.43, mse_o: 882.96, mse_loq: 24.63, cent_minutiae: 24.63
+2017-04-29 01:44:38,433 INFO Epoch 145 of 1000 took 253.91 seconds.
+2017-04-29 01:48:25,263 INFO [TEST] gen: 4582.35, dis: 4582.35, mse: 3963.47, mse_o: 603.03, mse_loq: 15.84, cent_minutiae: 15.84
+2017-04-29 01:48:25,263 INFO [TRAIN] gen: 4859.32, dis: 4859.32, mse: 3976.25, mse_o: 859.91, mse_loq: 23.17, cent_minutiae: 23.17
+2017-04-29 01:48:54,287 INFO Epoch 146 of 1000 took 255.85 seconds.
+2017-04-29 01:53:04,860 INFO Epoch 147 of 1000 took 250.57 seconds.
+2017-04-29 01:55:02,127 INFO [TEST] gen: 4734.33, dis: 4734.33, mse: 4065.35, mse_o: 651.12, mse_loq: 17.86, cent_minutiae: 17.86
+2017-04-29 01:55:02,127 INFO [TRAIN] gen: 4852.99, dis: 4852.99, mse: 3971.48, mse_o: 857.15, mse_loq: 24.37, cent_minutiae: 24.37
+2017-04-29 01:57:20,565 INFO Epoch 148 of 1000 took 255.70 seconds.
+2017-04-29 02:01:31,199 INFO Epoch 149 of 1000 took 250.63 seconds.
+2017-04-29 02:01:38,248 INFO [TEST] gen: 4817.08, dis: 4817.08, mse: 4341.22, mse_o: 462.55, mse_loq: 13.31, cent_minutiae: 13.31
+2017-04-29 02:01:38,248 INFO [TRAIN] gen: 4797.98, dis: 4797.98, mse: 3815.98, mse_o: 958.63, mse_loq: 23.38, cent_minutiae: 23.38
+2017-04-29 02:05:45,337 INFO Epoch 150 of 1000 took 254.14 seconds.
+2017-04-29 02:08:29,340 INFO [TEST] gen: 4466.39, dis: 4466.39, mse: 3939.76, mse_o: 508.83, mse_loq: 17.81, cent_minutiae: 17.81
+2017-04-29 02:08:29,340 INFO [TRAIN] gen: 4734.16, dis: 4734.16, mse: 3903.37, mse_o: 807.94, mse_loq: 22.85, cent_minutiae: 22.85
+2017-04-29 02:10:10,828 INFO Epoch 151 of 1000 took 243.19 seconds.
+2017-04-29 02:14:03,015 INFO Epoch 152 of 1000 took 232.19 seconds.
+2017-04-29 02:14:38,673 INFO [TEST] gen: 4315.79, dis: 4315.79, mse: 3851.86, mse_o: 450.36, mse_loq: 13.57, cent_minutiae: 13.57
+2017-04-29 02:14:38,673 INFO [TRAIN] gen: 4641.81, dis: 4641.81, mse: 3802.94, mse_o: 814.60, mse_loq: 24.27, cent_minutiae: 24.27
+2017-04-29 02:17:58,982 INFO Epoch 153 of 1000 took 235.97 seconds.
+2017-04-29 02:20:44,684 INFO [TEST] gen: 4499.72, dis: 4499.72, mse: 3818.04, mse_o: 657.83, mse_loq: 23.85, cent_minutiae: 23.85
+2017-04-29 02:20:44,685 INFO [TRAIN] gen: 4769.74, dis: 4769.74, mse: 3889.36, mse_o: 855.75, mse_loq: 24.62, cent_minutiae: 24.62
+2017-04-29 02:21:55,265 INFO Epoch 154 of 1000 took 236.28 seconds.
+2017-04-29 02:25:46,673 INFO Epoch 155 of 1000 took 231.41 seconds.
+2017-04-29 02:26:51,663 INFO [TEST] gen: 4655.97, dis: 4655.97, mse: 4153.23, mse_o: 480.30, mse_loq: 22.44, cent_minutiae: 22.44
+2017-04-29 02:26:51,663 INFO [TRAIN] gen: 4661.16, dis: 4661.16, mse: 3797.33, mse_o: 841.09, mse_loq: 22.74, cent_minutiae: 22.74
+2017-04-29 02:29:43,500 INFO Epoch 156 of 1000 took 236.83 seconds.
+2017-04-29 02:32:58,644 INFO [TEST] gen: 24735.77, dis: 24735.77, mse: 23839.18, mse_o: 791.72, mse_loq: 104.87, cent_minutiae: 104.87
+2017-04-29 02:32:58,644 INFO [TRAIN] gen: 14113.14, dis: 14113.14, mse: 12677.71, mse_o: 1319.92, mse_loq: 115.51, cent_minutiae: 115.51
+2017-04-29 02:33:39,842 INFO Epoch 157 of 1000 took 236.34 seconds.
+2017-04-29 02:37:31,332 INFO Epoch 158 of 1000 took 231.49 seconds.
+2017-04-29 02:39:04,802 INFO [TEST] gen: 10042.27, dis: 10042.27, mse: 9346.75, mse_o: 660.01, mse_loq: 35.51, cent_minutiae: 35.51
+2017-04-29 02:39:04,802 INFO [TRAIN] gen: 6867.35, dis: 6867.35, mse: 5862.93, mse_o: 961.79, mse_loq: 42.64, cent_minutiae: 42.64
+2017-04-29 02:41:27,700 INFO Epoch 159 of 1000 took 236.37 seconds.
+2017-04-29 02:45:10,932 INFO [TEST] gen: 5157.13, dis: 5157.13, mse: 4633.19, mse_o: 507.97, mse_loq: 15.97, cent_minutiae: 15.97
+2017-04-29 02:45:10,932 INFO [TRAIN] gen: 5380.52, dis: 5380.52, mse: 4487.13, mse_o: 865.69, mse_loq: 27.71, cent_minutiae: 27.71
+2017-04-29 02:45:23,336 INFO Epoch 160 of 1000 took 235.64 seconds.
+2017-04-29 02:49:14,647 INFO Epoch 161 of 1000 took 231.31 seconds.
+2017-04-29 02:51:16,115 INFO [TEST] gen: 4521.03, dis: 4521.03, mse: 3868.82, mse_o: 632.80, mse_loq: 19.41, cent_minutiae: 19.41
+2017-04-29 02:51:16,116 INFO [TRAIN] gen: 4940.94, dis: 4940.94, mse: 4067.66, mse_o: 847.81, mse_loq: 25.47, cent_minutiae: 25.47
+2017-04-29 02:53:08,849 INFO Epoch 162 of 1000 took 234.20 seconds.
+2017-04-29 02:56:56,871 INFO Epoch 163 of 1000 took 228.02 seconds.
+2017-04-29 02:57:17,723 INFO [TEST] gen: 4020.05, dis: 4020.05, mse: 3560.42, mse_o: 440.41, mse_loq: 19.22, cent_minutiae: 19.22
+2017-04-29 02:57:17,724 INFO [TRAIN] gen: 4551.18, dis: 4551.18, mse: 3636.81, mse_o: 889.37, mse_loq: 25.00, cent_minutiae: 25.00
+2017-04-29 03:00:49,640 INFO Epoch 164 of 1000 took 232.77 seconds.
+2017-04-29 03:03:19,898 INFO [TEST] gen: 4148.18, dis: 4148.18, mse: 3695.59, mse_o: 436.93, mse_loq: 15.66, cent_minutiae: 15.66
+2017-04-29 03:03:19,898 INFO [TRAIN] gen: 4230.06, dis: 4230.06, mse: 3399.30, mse_o: 810.25, mse_loq: 20.51, cent_minutiae: 20.51
+2017-04-29 03:04:43,588 INFO Epoch 165 of 1000 took 233.95 seconds.
+2017-04-29 03:08:32,890 INFO Epoch 166 of 1000 took 229.30 seconds.
+2017-04-29 03:09:22,358 INFO [TEST] gen: 4301.17, dis: 4301.17, mse: 3792.79, mse_o: 485.17, mse_loq: 23.21, cent_minutiae: 23.21
+2017-04-29 03:09:22,358 INFO [TRAIN] gen: 4215.27, dis: 4215.27, mse: 3437.35, mse_o: 758.87, mse_loq: 19.06, cent_minutiae: 19.06
+2017-04-29 03:12:26,911 INFO Epoch 167 of 1000 took 234.02 seconds.
+2017-04-29 03:15:25,056 INFO [TEST] gen: 3793.82, dis: 3793.82, mse: 3362.73, mse_o: 413.99, mse_loq: 17.09, cent_minutiae: 17.09
+2017-04-29 03:15:25,056 INFO [TRAIN] gen: 4118.35, dis: 4118.35, mse: 3256.80, mse_o: 841.31, mse_loq: 20.24, cent_minutiae: 20.24
+2017-04-29 03:16:20,187 INFO Epoch 168 of 1000 took 233.28 seconds.
+2017-04-29 03:20:09,986 INFO Epoch 169 of 1000 took 229.80 seconds.
+2017-04-29 03:21:28,154 INFO [TEST] gen: 3915.20, dis: 3915.20, mse: 3249.26, mse_o: 643.54, mse_loq: 22.40, cent_minutiae: 22.40
+2017-04-29 03:21:28,155 INFO [TRAIN] gen: 4100.35, dis: 4100.35, mse: 3267.48, mse_o: 812.99, mse_loq: 19.89, cent_minutiae: 19.89
+2017-04-29 03:24:03,241 INFO Epoch 170 of 1000 took 233.25 seconds.
+2017-04-29 03:27:29,795 INFO [TEST] gen: 3975.93, dis: 3975.93, mse: 3485.30, mse_o: 477.66, mse_loq: 12.97, cent_minutiae: 12.97
+2017-04-29 03:27:29,795 INFO [TRAIN] gen: 4082.47, dis: 4082.47, mse: 3265.22, mse_o: 797.52, mse_loq: 19.73, cent_minutiae: 19.73
+2017-04-29 03:27:55,856 INFO Epoch 171 of 1000 took 232.61 seconds.
+2017-04-29 03:31:45,638 INFO Epoch 172 of 1000 took 229.78 seconds.
+2017-04-29 03:33:32,579 INFO [TEST] gen: 3430.11, dis: 3430.11, mse: 3010.82, mse_o: 410.77, mse_loq: 8.52, cent_minutiae: 8.52
+2017-04-29 03:33:32,579 INFO [TRAIN] gen: 4040.65, dis: 4040.65, mse: 3209.72, mse_o: 810.70, mse_loq: 20.23, cent_minutiae: 20.23
+2017-04-29 03:35:39,609 INFO Epoch 173 of 1000 took 233.97 seconds.
+2017-04-29 03:39:29,513 INFO Epoch 174 of 1000 took 229.90 seconds.
+2017-04-29 03:39:36,064 INFO [TEST] gen: 3487.70, dis: 3487.70, mse: 3116.76, mse_o: 356.95, mse_loq: 14.00, cent_minutiae: 14.00
+2017-04-29 03:39:36,064 INFO [TRAIN] gen: 4102.33, dis: 4102.33, mse: 3183.73, mse_o: 896.53, mse_loq: 22.08, cent_minutiae: 22.08
+2017-04-29 03:43:23,241 INFO Epoch 175 of 1000 took 233.73 seconds.
+2017-04-29 03:45:38,898 INFO [TEST] gen: 3796.14, dis: 3796.14, mse: 3282.19, mse_o: 505.03, mse_loq: 8.92, cent_minutiae: 8.92
+2017-04-29 03:45:38,900 INFO [TRAIN] gen: 4029.79, dis: 4029.79, mse: 3182.28, mse_o: 825.48, mse_loq: 22.04, cent_minutiae: 22.04
+2017-04-29 03:47:17,166 INFO Epoch 176 of 1000 took 233.92 seconds.
+2017-04-29 03:51:05,658 INFO Epoch 177 of 1000 took 228.49 seconds.
+2017-04-29 03:51:40,845 INFO [TEST] gen: 3826.74, dis: 3826.74, mse: 3379.23, mse_o: 432.98, mse_loq: 14.54, cent_minutiae: 14.54
+2017-04-29 03:51:40,846 INFO [TRAIN] gen: 3972.26, dis: 3972.26, mse: 3158.24, mse_o: 792.72, mse_loq: 21.30, cent_minutiae: 21.30
+2017-04-29 03:55:00,241 INFO Epoch 178 of 1000 took 234.58 seconds.
+2017-04-29 03:57:44,978 INFO [TEST] gen: 4014.60, dis: 4014.60, mse: 3570.37, mse_o: 429.81, mse_loq: 14.41, cent_minutiae: 14.41
+2017-04-29 03:57:44,978 INFO [TRAIN] gen: 4062.46, dis: 4062.46, mse: 3213.13, mse_o: 829.17, mse_loq: 20.16, cent_minutiae: 20.16
+2017-04-29 03:58:54,540 INFO Epoch 179 of 1000 took 234.30 seconds.
+2017-04-29 04:02:43,650 INFO Epoch 180 of 1000 took 229.11 seconds.
+2017-04-29 04:03:47,398 INFO [TEST] gen: 3892.70, dis: 3892.70, mse: 3427.63, mse_o: 441.13, mse_loq: 23.94, cent_minutiae: 23.94
+2017-04-29 04:03:47,398 INFO [TRAIN] gen: 4104.41, dis: 4104.41, mse: 3250.91, mse_o: 835.56, mse_loq: 17.95, cent_minutiae: 17.95
+2017-04-29 04:06:33,477 INFO Epoch 181 of 1000 took 229.83 seconds.
+2017-04-29 04:09:39,472 INFO [TEST] gen: 3981.14, dis: 3981.14, mse: 3516.86, mse_o: 445.31, mse_loq: 18.96, cent_minutiae: 18.96
+2017-04-29 04:09:39,473 INFO [TRAIN] gen: 4084.16, dis: 4084.16, mse: 3233.11, mse_o: 830.73, mse_loq: 20.32, cent_minutiae: 20.32
+2017-04-29 04:10:18,394 INFO Epoch 182 of 1000 took 224.92 seconds.
+2017-04-29 04:13:59,712 INFO Epoch 183 of 1000 took 221.32 seconds.
+2017-04-29 04:15:28,621 INFO [TEST] gen: 3825.44, dis: 3825.44, mse: 3390.92, mse_o: 419.45, mse_loq: 15.07, cent_minutiae: 15.07
+2017-04-29 04:15:28,622 INFO [TRAIN] gen: 3991.12, dis: 3991.12, mse: 3178.28, mse_o: 793.81, mse_loq: 19.03, cent_minutiae: 19.03
+2017-04-29 04:17:44,360 INFO Epoch 184 of 1000 took 224.65 seconds.
+2017-04-29 04:21:17,515 INFO [TEST] gen: 3748.21, dis: 3748.21, mse: 3332.73, mse_o: 399.65, mse_loq: 15.83, cent_minutiae: 15.83
+2017-04-29 04:21:17,515 INFO [TRAIN] gen: 4050.17, dis: 4050.17, mse: 3219.32, mse_o: 810.98, mse_loq: 19.86, cent_minutiae: 19.86
+2017-04-29 04:21:29,199 INFO Epoch 185 of 1000 took 224.84 seconds.
+2017-04-29 04:25:07,363 INFO Epoch 186 of 1000 took 218.16 seconds.
+2017-04-29 04:27:04,145 INFO [TEST] gen: 3650.02, dis: 3650.02, mse: 3273.18, mse_o: 363.25, mse_loq: 13.59, cent_minutiae: 13.59
+2017-04-29 04:27:04,145 INFO [TRAIN] gen: 3965.41, dis: 3965.41, mse: 3177.13, mse_o: 768.94, mse_loq: 19.35, cent_minutiae: 19.35
+2017-04-29 04:28:52,291 INFO Epoch 187 of 1000 took 224.93 seconds.
+2017-04-29 04:32:33,182 INFO Epoch 188 of 1000 took 220.89 seconds.
+2017-04-29 04:32:52,971 INFO [TEST] gen: 3728.25, dis: 3728.25, mse: 3268.51, mse_o: 446.61, mse_loq: 13.13, cent_minutiae: 13.13
+2017-04-29 04:32:52,972 INFO [TRAIN] gen: 4000.41, dis: 4000.41, mse: 3178.16, mse_o: 800.27, mse_loq: 21.98, cent_minutiae: 21.98
+2017-04-29 04:36:17,970 INFO Epoch 189 of 1000 took 224.79 seconds.
+2017-04-29 04:38:41,154 INFO [TEST] gen: 3453.19, dis: 3453.19, mse: 3047.77, mse_o: 395.59, mse_loq: 9.83, cent_minutiae: 9.83
+2017-04-29 04:38:41,154 INFO [TRAIN] gen: 3989.98, dis: 3989.98, mse: 3159.65, mse_o: 809.88, mse_loq: 20.45, cent_minutiae: 20.45
+2017-04-29 04:40:01,821 INFO Epoch 190 of 1000 took 223.85 seconds.
+2017-04-29 04:43:40,941 INFO Epoch 191 of 1000 took 219.12 seconds.
+2017-04-29 04:44:28,516 INFO [TEST] gen: 4031.47, dis: 4031.47, mse: 3580.57, mse_o: 438.71, mse_loq: 12.19, cent_minutiae: 12.19
+2017-04-29 04:44:28,517 INFO [TRAIN] gen: 4041.71, dis: 4041.71, mse: 3245.73, mse_o: 774.99, mse_loq: 20.98, cent_minutiae: 20.98
+2017-04-29 04:47:25,180 INFO Epoch 192 of 1000 took 224.24 seconds.
+2017-04-29 04:50:16,358 INFO [TEST] gen: 4161.85, dis: 4161.85, mse: 3533.83, mse_o: 606.87, mse_loq: 21.15, cent_minutiae: 21.15
+2017-04-29 04:50:16,358 INFO [TRAIN] gen: 4045.67, dis: 4045.67, mse: 3180.59, mse_o: 843.64, mse_loq: 21.44, cent_minutiae: 21.44
+2017-04-29 04:51:09,920 INFO Epoch 193 of 1000 took 224.74 seconds.
+2017-04-29 04:54:50,543 INFO Epoch 194 of 1000 took 220.62 seconds.
+2017-04-29 04:56:05,299 INFO [TEST] gen: 3624.32, dis: 3624.32, mse: 3169.03, mse_o: 441.19, mse_loq: 14.10, cent_minutiae: 14.10
+2017-04-29 04:56:05,300 INFO [TRAIN] gen: 3966.28, dis: 3966.28, mse: 3106.49, mse_o: 838.54, mse_loq: 21.25, cent_minutiae: 21.25
+2017-04-29 04:58:34,638 INFO Epoch 195 of 1000 took 224.09 seconds.
+2017-04-29 05:01:53,853 INFO [TEST] gen: 3513.58, dis: 3513.58, mse: 3104.81, mse_o: 397.90, mse_loq: 10.87, cent_minutiae: 10.87
+2017-04-29 05:01:53,853 INFO [TRAIN] gen: 4019.75, dis: 4019.75, mse: 3174.14, mse_o: 823.93, mse_loq: 21.68, cent_minutiae: 21.68
+2017-04-29 05:02:19,309 INFO Epoch 196 of 1000 took 224.67 seconds.
+2017-04-29 05:05:59,162 INFO Epoch 197 of 1000 took 219.85 seconds.
+2017-04-29 05:07:40,929 INFO [TEST] gen: 3554.05, dis: 3554.05, mse: 3147.41, mse_o: 392.40, mse_loq: 14.24, cent_minutiae: 14.24
+2017-04-29 05:07:40,930 INFO [TRAIN] gen: 3944.58, dis: 3944.58, mse: 3109.77, mse_o: 815.11, mse_loq: 19.71, cent_minutiae: 19.71
+2017-04-29 05:09:44,053 INFO Epoch 198 of 1000 took 224.89 seconds.
+2017-04-29 05:13:25,001 INFO Epoch 199 of 1000 took 220.95 seconds.
+2017-04-29 05:13:31,549 INFO [TEST] gen: 3498.12, dis: 3498.12, mse: 3115.25, mse_o: 365.32, mse_loq: 17.55, cent_minutiae: 17.55
+2017-04-29 05:13:31,549 INFO [TRAIN] gen: 4178.84, dis: 4178.84, mse: 3246.61, mse_o: 908.20, mse_loq: 24.03, cent_minutiae: 24.03
+2017-04-29 05:17:12,242 INFO Epoch 200 of 1000 took 227.24 seconds.
+2017-04-29 05:19:43,468 INFO [TEST] gen: 3676.07, dis: 3676.07, mse: 3186.04, mse_o: 473.59, mse_loq: 16.43, cent_minutiae: 16.43
+2017-04-29 05:19:43,468 INFO [TRAIN] gen: 3978.46, dis: 3978.46, mse: 3132.26, mse_o: 824.89, mse_loq: 21.31, cent_minutiae: 21.31
+2017-04-29 05:21:19,454 INFO Epoch 201 of 1000 took 227.62 seconds.
+2017-04-29 05:25:02,154 INFO Epoch 202 of 1000 took 222.70 seconds.
+2017-04-29 05:25:36,674 INFO [TEST] gen: 3421.54, dis: 3421.54, mse: 3077.16, mse_o: 333.17, mse_loq: 11.22, cent_minutiae: 11.22
+2017-04-29 05:25:36,674 INFO [TRAIN] gen: 3835.14, dis: 3835.14, mse: 3034.31, mse_o: 782.19, mse_loq: 18.65, cent_minutiae: 18.65
+2017-04-29 05:29:06,302 INFO Epoch 203 of 1000 took 244.15 seconds.
+2017-04-29 05:32:00,335 INFO [TEST] gen: 3296.90, dis: 3296.90, mse: 2877.88, mse_o: 402.92, mse_loq: 16.10, cent_minutiae: 16.10
+2017-04-29 05:32:00,335 INFO [TRAIN] gen: 3889.18, dis: 3889.18, mse: 3049.42, mse_o: 818.64, mse_loq: 21.12, cent_minutiae: 21.12
+2017-04-29 05:33:14,020 INFO Epoch 204 of 1000 took 247.72 seconds.
+2017-04-29 05:37:16,234 INFO Epoch 205 of 1000 took 242.21 seconds.
+2017-04-29 05:38:24,522 INFO [TEST] gen: 3519.08, dis: 3519.08, mse: 3123.88, mse_o: 377.09, mse_loq: 18.12, cent_minutiae: 18.12
+2017-04-29 05:38:24,522 INFO [TRAIN] gen: 3914.62, dis: 3914.62, mse: 3050.55, mse_o: 841.97, mse_loq: 22.10, cent_minutiae: 22.10
+2017-04-29 05:41:23,808 INFO Epoch 206 of 1000 took 247.57 seconds.
+2017-04-29 05:44:48,345 INFO [TEST] gen: 3305.83, dis: 3305.83, mse: 2889.09, mse_o: 405.58, mse_loq: 11.16, cent_minutiae: 11.16
+2017-04-29 05:44:48,345 INFO [TRAIN] gen: 3850.42, dis: 3850.42, mse: 3030.80, mse_o: 798.25, mse_loq: 21.37, cent_minutiae: 21.37
+2017-04-29 05:45:31,602 INFO Epoch 207 of 1000 took 247.79 seconds.
+2017-04-29 05:49:34,001 INFO Epoch 208 of 1000 took 242.40 seconds.
+2017-04-29 05:51:12,182 INFO [TEST] gen: 3226.10, dis: 3226.10, mse: 2841.58, mse_o: 373.06, mse_loq: 11.46, cent_minutiae: 11.46
+2017-04-29 05:51:12,182 INFO [TRAIN] gen: 3864.03, dis: 3864.03, mse: 3045.76, mse_o: 797.67, mse_loq: 20.60, cent_minutiae: 20.60
+2017-04-29 05:53:41,255 INFO Epoch 209 of 1000 took 247.25 seconds.
+2017-04-29 05:57:35,905 INFO [TEST] gen: 3347.33, dis: 3347.33, mse: 2924.73, mse_o: 413.07, mse_loq: 9.52, cent_minutiae: 9.52
+2017-04-29 05:57:35,905 INFO [TRAIN] gen: 3833.83, dis: 3833.83, mse: 2995.81, mse_o: 817.68, mse_loq: 20.34, cent_minutiae: 20.34
+2017-04-29 05:57:49,314 INFO Epoch 210 of 1000 took 248.06 seconds.
+2017-04-29 06:01:52,165 INFO Epoch 211 of 1000 took 242.85 seconds.
+2017-04-29 06:04:00,309 INFO [TEST] gen: 3301.67, dis: 3301.67, mse: 2903.94, mse_o: 387.23, mse_loq: 10.50, cent_minutiae: 10.50
+2017-04-29 06:04:00,309 INFO [TRAIN] gen: 3776.96, dis: 3776.96, mse: 2972.29, mse_o: 784.60, mse_loq: 20.07, cent_minutiae: 20.07
+2017-04-29 06:05:59,988 INFO Epoch 212 of 1000 took 247.82 seconds.
+2017-04-29 06:10:03,228 INFO Epoch 213 of 1000 took 243.24 seconds.
+2017-04-29 06:10:25,468 INFO [TEST] gen: 3478.11, dis: 3478.11, mse: 3006.75, mse_o: 454.92, mse_loq: 16.45, cent_minutiae: 16.45
+2017-04-29 06:10:25,468 INFO [TRAIN] gen: 3820.83, dis: 3820.83, mse: 2897.86, mse_o: 901.71, mse_loq: 21.26, cent_minutiae: 21.26
+2017-04-29 06:14:11,733 INFO Epoch 214 of 1000 took 248.50 seconds.
+2017-04-29 06:16:50,281 INFO [TEST] gen: 3501.99, dis: 3501.99, mse: 2974.44, mse_o: 507.43, mse_loq: 20.12, cent_minutiae: 20.12
+2017-04-29 06:16:50,282 INFO [TRAIN] gen: 3807.74, dis: 3807.74, mse: 2954.30, mse_o: 830.16, mse_loq: 23.28, cent_minutiae: 23.28
+2017-04-29 06:18:19,241 INFO Epoch 215 of 1000 took 247.51 seconds.
+2017-04-29 06:22:21,502 INFO Epoch 216 of 1000 took 242.26 seconds.
+2017-04-29 06:23:13,727 INFO [TEST] gen: 3822.81, dis: 3822.81, mse: 3294.51, mse_o: 510.88, mse_loq: 17.42, cent_minutiae: 17.42
+2017-04-29 06:23:13,727 INFO [TRAIN] gen: 3744.77, dis: 3744.77, mse: 2923.75, mse_o: 800.80, mse_loq: 20.22, cent_minutiae: 20.22
+2017-04-29 06:26:18,220 INFO Epoch 217 of 1000 took 236.72 seconds.
+2017-04-29 06:29:11,718 INFO [TEST] gen: 3706.68, dis: 3706.68, mse: 3203.36, mse_o: 490.14, mse_loq: 13.18, cent_minutiae: 13.18
+2017-04-29 06:29:11,718 INFO [TRAIN] gen: 3762.57, dis: 3762.57, mse: 2945.63, mse_o: 797.68, mse_loq: 19.26, cent_minutiae: 19.26
+2017-04-29 06:30:05,564 INFO Epoch 218 of 1000 took 227.34 seconds.
+2017-04-29 06:33:47,724 INFO Epoch 219 of 1000 took 222.16 seconds.
+2017-04-29 06:35:02,698 INFO [TEST] gen: 3612.10, dis: 3612.10, mse: 3123.61, mse_o: 478.68, mse_loq: 9.80, cent_minutiae: 9.80
+2017-04-29 06:35:02,699 INFO [TRAIN] gen: 3748.85, dis: 3748.85, mse: 2914.46, mse_o: 815.15, mse_loq: 19.24, cent_minutiae: 19.24
+2017-04-29 06:37:32,546 INFO Epoch 220 of 1000 took 224.82 seconds.
+2017-04-29 06:40:51,920 INFO [TEST] gen: 3598.14, dis: 3598.14, mse: 3106.01, mse_o: 473.20, mse_loq: 18.93, cent_minutiae: 18.93
+2017-04-29 06:40:51,920 INFO [TRAIN] gen: 3706.10, dis: 3706.10, mse: 2877.11, mse_o: 808.94, mse_loq: 20.04, cent_minutiae: 20.04
+2017-04-29 06:41:18,034 INFO Epoch 221 of 1000 took 225.49 seconds.
+2017-04-29 06:44:59,876 INFO Epoch 222 of 1000 took 221.84 seconds.
+2017-04-29 06:46:43,449 INFO [TEST] gen: 3196.44, dis: 3196.44, mse: 2783.71, mse_o: 401.04, mse_loq: 11.70, cent_minutiae: 11.70
+2017-04-29 06:46:43,450 INFO [TRAIN] gen: 3707.53, dis: 3707.53, mse: 2866.06, mse_o: 821.00, mse_loq: 20.47, cent_minutiae: 20.47
+2017-04-29 06:48:46,551 INFO Epoch 223 of 1000 took 226.67 seconds.
+2017-04-29 06:52:28,565 INFO Epoch 224 of 1000 took 222.01 seconds.
+2017-04-29 06:52:34,927 INFO [TEST] gen: 3503.31, dis: 3503.31, mse: 3004.99, mse_o: 481.94, mse_loq: 16.38, cent_minutiae: 16.38
+2017-04-29 06:52:34,927 INFO [TRAIN] gen: 3691.27, dis: 3691.27, mse: 2808.46, mse_o: 863.38, mse_loq: 19.43, cent_minutiae: 19.43
+2017-04-29 06:56:13,775 INFO Epoch 225 of 1000 took 225.21 seconds.
+2017-04-29 06:58:26,173 INFO [TEST] gen: 3368.20, dis: 3368.20, mse: 2947.11, mse_o: 407.50, mse_loq: 13.59, cent_minutiae: 13.59
+2017-04-29 06:58:26,174 INFO [TRAIN] gen: 3642.63, dis: 3642.63, mse: 2832.31, mse_o: 790.95, mse_loq: 19.37, cent_minutiae: 19.37
+2017-04-29 07:00:01,789 INFO Epoch 226 of 1000 took 228.01 seconds.
+2017-04-29 07:03:44,058 INFO Epoch 227 of 1000 took 222.27 seconds.
+2017-04-29 07:04:17,856 INFO [TEST] gen: 3452.97, dis: 3452.97, mse: 2960.32, mse_o: 475.07, mse_loq: 17.58, cent_minutiae: 17.58
+2017-04-29 07:04:17,857 INFO [TRAIN] gen: 3671.19, dis: 3671.19, mse: 2838.18, mse_o: 813.97, mse_loq: 19.05, cent_minutiae: 19.05
+2017-04-29 07:07:30,265 INFO Epoch 228 of 1000 took 226.21 seconds.
+2017-04-29 07:10:08,946 INFO [TEST] gen: 3217.46, dis: 3217.46, mse: 2817.92, mse_o: 386.98, mse_loq: 12.55, cent_minutiae: 12.55
+2017-04-29 07:10:08,947 INFO [TRAIN] gen: 3648.00, dis: 3648.00, mse: 2819.97, mse_o: 807.64, mse_loq: 20.38, cent_minutiae: 20.38
+2017-04-29 07:11:16,389 INFO Epoch 229 of 1000 took 226.12 seconds.
+2017-04-29 07:14:57,973 INFO Epoch 230 of 1000 took 221.58 seconds.
+2017-04-29 07:15:59,733 INFO [TEST] gen: 3176.95, dis: 3176.95, mse: 2725.76, mse_o: 442.32, mse_loq: 8.88, cent_minutiae: 8.88
+2017-04-29 07:15:59,733 INFO [TRAIN] gen: 3614.10, dis: 3614.10, mse: 2775.65, mse_o: 817.93, mse_loq: 20.52, cent_minutiae: 20.52
+2017-04-29 07:18:43,701 INFO Epoch 231 of 1000 took 225.73 seconds.
+2017-04-29 07:21:51,120 INFO [TEST] gen: 3128.47, dis: 3128.47, mse: 2702.76, mse_o: 415.01, mse_loq: 10.70, cent_minutiae: 10.70
+2017-04-29 07:21:51,120 INFO [TRAIN] gen: 3575.50, dis: 3575.50, mse: 2750.32, mse_o: 804.53, mse_loq: 20.65, cent_minutiae: 20.65
+2017-04-29 07:22:31,360 INFO Epoch 232 of 1000 took 227.66 seconds.
+2017-04-29 07:26:13,292 INFO Epoch 233 of 1000 took 221.93 seconds.
+2017-04-29 07:27:42,749 INFO [TEST] gen: 3367.97, dis: 3367.97, mse: 2879.83, mse_o: 471.38, mse_loq: 16.76, cent_minutiae: 16.76
+2017-04-29 07:27:42,749 INFO [TRAIN] gen: 3569.11, dis: 3569.11, mse: 2732.44, mse_o: 817.07, mse_loq: 19.60, cent_minutiae: 19.60
+2017-04-29 07:29:59,842 INFO Epoch 234 of 1000 took 226.55 seconds.
+2017-04-29 07:33:33,634 INFO [TEST] gen: 4011.82, dis: 4011.82, mse: 3402.92, mse_o: 590.28, mse_loq: 18.62, cent_minutiae: 18.62
+2017-04-29 07:33:33,635 INFO [TRAIN] gen: 3552.83, dis: 3552.83, mse: 2751.26, mse_o: 781.95, mse_loq: 19.61, cent_minutiae: 19.61
+2017-04-29 07:33:45,259 INFO Epoch 235 of 1000 took 225.42 seconds.
+2017-04-29 07:37:27,174 INFO Epoch 236 of 1000 took 221.91 seconds.
+2017-04-29 07:39:23,982 INFO [TEST] gen: 3918.72, dis: 3918.72, mse: 3215.39, mse_o: 686.64, mse_loq: 16.69, cent_minutiae: 16.69
+2017-04-29 07:39:23,982 INFO [TRAIN] gen: 3492.72, dis: 3492.72, mse: 2693.50, mse_o: 781.11, mse_loq: 18.12, cent_minutiae: 18.12
+2017-04-29 07:41:12,384 INFO Epoch 237 of 1000 took 225.21 seconds.
+2017-04-29 07:44:52,634 INFO Epoch 238 of 1000 took 220.25 seconds.
+2017-04-29 07:45:13,028 INFO [TEST] gen: 3541.44, dis: 3541.44, mse: 2994.83, mse_o: 530.86, mse_loq: 15.74, cent_minutiae: 15.74
+2017-04-29 07:45:13,028 INFO [TRAIN] gen: 3547.12, dis: 3547.12, mse: 2731.00, mse_o: 795.59, mse_loq: 20.53, cent_minutiae: 20.53
+2017-04-29 07:48:40,123 INFO Epoch 239 of 1000 took 227.49 seconds.
+2017-04-29 07:51:07,087 INFO [TEST] gen: 3115.47, dis: 3115.47, mse: 2692.74, mse_o: 403.79, mse_loq: 18.94, cent_minutiae: 18.94
+2017-04-29 07:51:07,088 INFO [TRAIN] gen: 3513.34, dis: 3513.34, mse: 2661.03, mse_o: 831.93, mse_loq: 20.38, cent_minutiae: 20.38
+2017-04-29 07:52:29,017 INFO Epoch 240 of 1000 took 228.89 seconds.
+2017-04-29 07:56:14,201 INFO Epoch 241 of 1000 took 225.18 seconds.
+2017-04-29 07:57:02,278 INFO [TEST] gen: 3441.15, dis: 3441.15, mse: 2918.79, mse_o: 512.33, mse_loq: 10.04, cent_minutiae: 10.04
+2017-04-29 07:57:02,278 INFO [TRAIN] gen: 3487.85, dis: 3487.85, mse: 2650.79, mse_o: 816.50, mse_loq: 20.56, cent_minutiae: 20.56
+2017-04-29 08:00:02,490 INFO Epoch 242 of 1000 took 228.29 seconds.
+2017-04-29 08:02:53,014 INFO [TEST] gen: 3461.10, dis: 3461.10, mse: 3093.23, mse_o: 356.41, mse_loq: 11.47, cent_minutiae: 11.47
+2017-04-29 08:02:53,014 INFO [TRAIN] gen: 3449.53, dis: 3449.53, mse: 2626.59, mse_o: 802.29, mse_loq: 20.65, cent_minutiae: 20.65
+2017-04-29 08:03:46,506 INFO Epoch 243 of 1000 took 224.02 seconds.
+2017-04-29 08:07:28,796 INFO Epoch 244 of 1000 took 222.29 seconds.
+2017-04-29 08:08:44,360 INFO [TEST] gen: 3320.80, dis: 3320.80, mse: 2767.26, mse_o: 543.34, mse_loq: 10.21, cent_minutiae: 10.21
+2017-04-29 08:08:44,360 INFO [TRAIN] gen: 3477.53, dis: 3477.53, mse: 2648.21, mse_o: 808.85, mse_loq: 20.47, cent_minutiae: 20.47
+2017-04-29 08:11:13,789 INFO Epoch 245 of 1000 took 224.99 seconds.
+2017-04-29 08:14:32,211 INFO [TEST] gen: 3274.16, dis: 3274.16, mse: 2556.05, mse_o: 708.76, mse_loq: 9.35, cent_minutiae: 9.35
+2017-04-29 08:14:32,211 INFO [TRAIN] gen: 3446.81, dis: 3446.81, mse: 2627.23, mse_o: 799.01, mse_loq: 20.57, cent_minutiae: 20.57
+2017-04-29 08:14:58,212 INFO Epoch 246 of 1000 took 224.42 seconds.
+2017-04-29 08:18:39,058 INFO Epoch 247 of 1000 took 220.84 seconds.
+2017-04-29 08:20:22,387 INFO [TEST] gen: 3057.83, dis: 3057.83, mse: 2478.70, mse_o: 567.93, mse_loq: 11.21, cent_minutiae: 11.21
+2017-04-29 08:20:22,389 INFO [TRAIN] gen: 3450.54, dis: 3450.54, mse: 2633.06, mse_o: 797.13, mse_loq: 20.35, cent_minutiae: 20.35
+2017-04-29 08:22:23,651 INFO Epoch 248 of 1000 took 224.59 seconds.
+2017-04-29 08:26:04,748 INFO Epoch 249 of 1000 took 221.10 seconds.
+2017-04-29 08:26:10,877 INFO [TEST] gen: 3246.40, dis: 3246.40, mse: 2668.51, mse_o: 570.69, mse_loq: 7.20, cent_minutiae: 7.20
+2017-04-29 08:26:10,877 INFO [TRAIN] gen: 3619.50, dis: 3619.50, mse: 2700.30, mse_o: 886.34, mse_loq: 32.86, cent_minutiae: 32.86
+2017-04-29 08:29:49,915 INFO Epoch 250 of 1000 took 225.17 seconds.
+2017-04-29 08:32:19,043 INFO [TEST] gen: 3264.72, dis: 3264.72, mse: 2657.68, mse_o: 598.41, mse_loq: 8.63, cent_minutiae: 8.63
+2017-04-29 08:32:19,044 INFO [TRAIN] gen: 3341.43, dis: 3341.43, mse: 2534.70, mse_o: 787.01, mse_loq: 19.72, cent_minutiae: 19.72
+2017-04-29 08:33:54,920 INFO Epoch 251 of 1000 took 226.43 seconds.
+2017-04-29 08:37:36,204 INFO Epoch 252 of 1000 took 221.28 seconds.
+2017-04-29 08:38:10,222 INFO [TEST] gen: 3001.13, dis: 3001.13, mse: 2486.36, mse_o: 504.33, mse_loq: 10.44, cent_minutiae: 10.44
+2017-04-29 08:38:10,222 INFO [TRAIN] gen: 3470.79, dis: 3470.79, mse: 2583.47, mse_o: 865.83, mse_loq: 21.49, cent_minutiae: 21.49
+2017-04-29 08:41:20,986 INFO Epoch 253 of 1000 took 224.78 seconds.
+2017-04-29 08:44:00,060 INFO [TEST] gen: 3218.41, dis: 3218.41, mse: 2739.88, mse_o: 469.41, mse_loq: 9.12, cent_minutiae: 9.12
+2017-04-29 08:44:00,060 INFO [TRAIN] gen: 3389.21, dis: 3389.21, mse: 2539.27, mse_o: 830.19, mse_loq: 19.75, cent_minutiae: 19.75
+2017-04-29 08:45:07,889 INFO Epoch 254 of 1000 took 226.90 seconds.
+2017-04-29 08:48:48,851 INFO Epoch 255 of 1000 took 220.96 seconds.
+2017-04-29 08:49:50,215 INFO [TEST] gen: 3263.91, dis: 3263.91, mse: 2620.92, mse_o: 627.38, mse_loq: 15.60, cent_minutiae: 15.60
+2017-04-29 08:49:50,215 INFO [TRAIN] gen: 3335.84, dis: 3335.84, mse: 2499.34, mse_o: 817.59, mse_loq: 18.91, cent_minutiae: 18.91
+2017-04-29 08:52:33,797 INFO Epoch 256 of 1000 took 224.94 seconds.
+2017-04-29 08:55:39,827 INFO [TEST] gen: 3209.14, dis: 3209.14, mse: 2747.51, mse_o: 450.08, mse_loq: 11.55, cent_minutiae: 11.55
+2017-04-29 08:55:39,828 INFO [TRAIN] gen: 3332.34, dis: 3332.34, mse: 2505.72, mse_o: 806.87, mse_loq: 19.74, cent_minutiae: 19.74
+2017-04-29 08:56:18,502 INFO Epoch 257 of 1000 took 224.70 seconds.
+2017-04-29 08:59:57,697 INFO Epoch 258 of 1000 took 219.19 seconds.
+2017-04-29 09:01:27,177 INFO [TEST] gen: 3041.38, dis: 3041.38, mse: 2617.68, mse_o: 414.11, mse_loq: 9.59, cent_minutiae: 9.59
+2017-04-29 09:01:27,177 INFO [TRAIN] gen: 3314.88, dis: 3314.88, mse: 2517.45, mse_o: 778.54, mse_loq: 18.88, cent_minutiae: 18.88
+2017-04-29 09:03:43,295 INFO Epoch 259 of 1000 took 225.60 seconds.
+2017-04-29 09:07:12,186 INFO [TEST] gen: 2989.81, dis: 2989.81, mse: 2548.32, mse_o: 433.51, mse_loq: 7.99, cent_minutiae: 7.99
+2017-04-29 09:07:12,187 INFO [TRAIN] gen: 3318.75, dis: 3318.75, mse: 2516.89, mse_o: 783.94, mse_loq: 17.92, cent_minutiae: 17.92
+2017-04-29 09:07:23,491 INFO Epoch 260 of 1000 took 220.20 seconds.
+2017-04-29 09:10:58,687 INFO Epoch 261 of 1000 took 215.19 seconds.
+2017-04-29 09:12:52,720 INFO [TEST] gen: 2831.37, dis: 2831.37, mse: 2381.07, mse_o: 441.95, mse_loq: 8.35, cent_minutiae: 8.35
+2017-04-29 09:12:52,720 INFO [TRAIN] gen: 3319.52, dis: 3319.52, mse: 2483.53, mse_o: 814.38, mse_loq: 21.61, cent_minutiae: 21.61
+2017-04-29 09:14:37,419 INFO Epoch 262 of 1000 took 218.73 seconds.
+2017-04-29 09:18:12,981 INFO Epoch 263 of 1000 took 215.56 seconds.
+2017-04-29 09:18:32,741 INFO [TEST] gen: 3009.11, dis: 3009.11, mse: 2423.45, mse_o: 572.72, mse_loq: 12.93, cent_minutiae: 12.93
+2017-04-29 09:18:32,741 INFO [TRAIN] gen: 3325.41, dis: 3325.41, mse: 2442.68, mse_o: 864.14, mse_loq: 18.59, cent_minutiae: 18.59
+2017-04-29 09:21:51,804 INFO Epoch 264 of 1000 took 218.82 seconds.
+2017-04-29 09:24:12,038 INFO [TEST] gen: 2832.78, dis: 2832.78, mse: 2385.25, mse_o: 440.16, mse_loq: 7.37, cent_minutiae: 7.37
+2017-04-29 09:24:12,038 INFO [TRAIN] gen: 3337.05, dis: 3337.05, mse: 2508.08, mse_o: 808.46, mse_loq: 20.50, cent_minutiae: 20.50
+2017-04-29 09:25:30,224 INFO Epoch 265 of 1000 took 218.42 seconds.
+2017-04-29 09:29:03,452 INFO Epoch 266 of 1000 took 213.23 seconds.
+2017-04-29 09:29:49,802 INFO [TEST] gen: 2689.30, dis: 2689.30, mse: 2229.36, mse_o: 446.65, mse_loq: 13.29, cent_minutiae: 13.29
+2017-04-29 09:29:49,802 INFO [TRAIN] gen: 3321.94, dis: 3321.94, mse: 2493.52, mse_o: 811.51, mse_loq: 16.91, cent_minutiae: 16.91
+2017-04-29 09:32:43,069 INFO Epoch 267 of 1000 took 219.62 seconds.
+2017-04-29 09:35:40,141 INFO [TEST] gen: 2637.25, dis: 2637.25, mse: 2230.22, mse_o: 397.68, mse_loq: 9.36, cent_minutiae: 9.36
+2017-04-29 09:35:40,141 INFO [TRAIN] gen: 3255.85, dis: 3255.85, mse: 2444.52, mse_o: 791.33, mse_loq: 20.00, cent_minutiae: 20.00
+2017-04-29 09:36:34,415 INFO Epoch 268 of 1000 took 231.34 seconds.
+2017-04-29 09:40:15,065 INFO Epoch 269 of 1000 took 220.65 seconds.
+2017-04-29 09:41:30,114 INFO [TEST] gen: 3001.81, dis: 3001.81, mse: 2503.69, mse_o: 490.23, mse_loq: 7.89, cent_minutiae: 7.89
+2017-04-29 09:41:30,114 INFO [TRAIN] gen: 3219.04, dis: 3219.04, mse: 2423.23, mse_o: 775.97, mse_loq: 19.83, cent_minutiae: 19.83
+2017-04-29 09:44:03,982 INFO Epoch 270 of 1000 took 228.92 seconds.
+2017-04-29 09:47:25,637 INFO [TEST] gen: 3045.99, dis: 3045.99, mse: 2408.52, mse_o: 621.21, mse_loq: 16.26, cent_minutiae: 16.26
+2017-04-29 09:47:25,637 INFO [TRAIN] gen: 3164.61, dis: 3164.61, mse: 2384.86, mse_o: 760.64, mse_loq: 19.11, cent_minutiae: 19.11
+2017-04-29 09:47:51,461 INFO Epoch 271 of 1000 took 227.48 seconds.
+2017-04-29 09:51:31,316 INFO Epoch 272 of 1000 took 219.85 seconds.
+2017-04-29 09:53:12,204 INFO [TEST] gen: 2819.14, dis: 2819.14, mse: 2411.48, mse_o: 398.57, mse_loq: 9.09, cent_minutiae: 9.09
+2017-04-29 09:53:12,204 INFO [TRAIN] gen: 3210.68, dis: 3210.68, mse: 2386.10, mse_o: 804.18, mse_loq: 20.40, cent_minutiae: 20.40
+2017-04-29 09:55:21,366 INFO Epoch 273 of 1000 took 230.05 seconds.
+2017-04-29 09:59:10,147 INFO Epoch 274 of 1000 took 228.78 seconds.
+2017-04-29 09:59:16,304 INFO [TEST] gen: 3040.79, dis: 3040.79, mse: 2503.92, mse_o: 528.76, mse_loq: 8.10, cent_minutiae: 8.10
+2017-04-29 09:59:16,304 INFO [TRAIN] gen: 3376.52, dis: 3376.52, mse: 2350.06, mse_o: 994.54, mse_loq: 31.92, cent_minutiae: 31.92
+2017-04-29 10:03:00,214 INFO Epoch 275 of 1000 took 230.07 seconds.
+2017-04-29 10:05:09,616 INFO [TEST] gen: 3114.63, dis: 3114.63, mse: 2314.85, mse_o: 785.55, mse_loq: 14.23, cent_minutiae: 14.23
+2017-04-29 10:05:09,616 INFO [TRAIN] gen: 3126.16, dis: 3126.16, mse: 2316.02, mse_o: 791.41, mse_loq: 18.73, cent_minutiae: 18.73
+2017-04-29 10:06:47,181 INFO Epoch 276 of 1000 took 226.97 seconds.
+2017-04-29 10:10:41,347 INFO Epoch 277 of 1000 took 234.16 seconds.
+2017-04-29 10:11:17,981 INFO [TEST] gen: 2730.55, dis: 2730.55, mse: 2316.75, mse_o: 400.87, mse_loq: 12.92, cent_minutiae: 12.92
+2017-04-29 10:11:17,981 INFO [TRAIN] gen: 3100.00, dis: 3100.00, mse: 2302.36, mse_o: 777.38, mse_loq: 20.26, cent_minutiae: 20.26
+2017-04-29 10:14:46,097 INFO Epoch 278 of 1000 took 244.75 seconds.
+2017-04-29 10:18:04,624 INFO [TEST] gen: 2838.59, dis: 2838.59, mse: 2414.63, mse_o: 415.02, mse_loq: 8.95, cent_minutiae: 8.95
+2017-04-29 10:18:04,624 INFO [TRAIN] gen: 3115.39, dis: 3115.39, mse: 2302.44, mse_o: 793.99, mse_loq: 18.96, cent_minutiae: 18.96
+2017-04-29 10:19:31,239 INFO Epoch 279 of 1000 took 285.14 seconds.
+2017-04-29 10:24:01,617 INFO Epoch 280 of 1000 took 270.38 seconds.
+2017-04-29 10:25:17,387 INFO [TEST] gen: 2739.42, dis: 2739.42, mse: 2272.64, mse_o: 459.37, mse_loq: 7.41, cent_minutiae: 7.41
+2017-04-29 10:25:17,388 INFO [TRAIN] gen: 3107.57, dis: 3107.57, mse: 2331.11, mse_o: 758.05, mse_loq: 18.40, cent_minutiae: 18.40
+2017-04-29 10:28:19,412 INFO Epoch 281 of 1000 took 257.79 seconds.
+2017-04-29 10:31:44,131 INFO [TEST] gen: 2748.50, dis: 2748.50, mse: 2293.05, mse_o: 447.02, mse_loq: 8.44, cent_minutiae: 8.44
+2017-04-29 10:31:44,131 INFO [TRAIN] gen: 3118.70, dis: 3118.70, mse: 2299.04, mse_o: 800.12, mse_loq: 19.54, cent_minutiae: 19.54
+2017-04-29 10:32:25,717 INFO Epoch 282 of 1000 took 246.30 seconds.
+2017-04-29 10:36:15,655 INFO Epoch 283 of 1000 took 229.94 seconds.
+2017-04-29 10:37:48,234 INFO [TEST] gen: 2889.10, dis: 2889.10, mse: 2427.89, mse_o: 446.14, mse_loq: 15.07, cent_minutiae: 15.07
+2017-04-29 10:37:48,234 INFO [TRAIN] gen: 3146.10, dis: 3146.10, mse: 2331.31, mse_o: 794.03, mse_loq: 20.76, cent_minutiae: 20.76
+2017-04-29 10:40:13,102 INFO Epoch 284 of 1000 took 237.45 seconds.
+2017-04-29 10:44:00,839 INFO [TEST] gen: 2730.47, dis: 2730.47, mse: 2338.99, mse_o: 380.81, mse_loq: 10.67, cent_minutiae: 10.67
+2017-04-29 10:44:00,839 INFO [TRAIN] gen: 3092.95, dis: 3092.95, mse: 2278.05, mse_o: 794.27, mse_loq: 20.63, cent_minutiae: 20.63
+2017-04-29 10:44:13,589 INFO Epoch 285 of 1000 took 240.49 seconds.
+2017-04-29 10:48:03,642 INFO Epoch 286 of 1000 took 230.05 seconds.
+2017-04-29 10:50:06,105 INFO [TEST] gen: 2890.13, dis: 2890.13, mse: 2440.16, mse_o: 444.58, mse_loq: 5.39, cent_minutiae: 5.39
+2017-04-29 10:50:06,105 INFO [TRAIN] gen: 3043.96, dis: 3043.96, mse: 2268.92, mse_o: 756.94, mse_loq: 18.10, cent_minutiae: 18.10
+2017-04-29 10:52:01,457 INFO Epoch 287 of 1000 took 237.81 seconds.
+2017-04-29 10:55:50,727 INFO Epoch 288 of 1000 took 229.27 seconds.
+2017-04-29 10:56:11,821 INFO [TEST] gen: 2704.34, dis: 2704.34, mse: 2251.26, mse_o: 445.14, mse_loq: 7.95, cent_minutiae: 7.95
+2017-04-29 10:56:11,821 INFO [TRAIN] gen: 3008.36, dis: 3008.36, mse: 2211.71, mse_o: 774.96, mse_loq: 21.69, cent_minutiae: 21.69
+2017-04-29 10:59:48,157 INFO Epoch 289 of 1000 took 237.43 seconds.
+2017-04-29 11:02:21,050 INFO [TEST] gen: 3159.75, dis: 3159.75, mse: 2482.56, mse_o: 663.10, mse_loq: 14.08, cent_minutiae: 14.08
+2017-04-29 11:02:21,051 INFO [TRAIN] gen: 3044.92, dis: 3044.92, mse: 2242.84, mse_o: 781.87, mse_loq: 20.21, cent_minutiae: 20.21
+2017-04-29 11:03:48,578 INFO Epoch 290 of 1000 took 240.42 seconds.
+2017-04-29 11:07:34,676 INFO Epoch 291 of 1000 took 226.10 seconds.
+2017-04-29 11:08:24,553 INFO [TEST] gen: 3130.59, dis: 3130.59, mse: 2223.12, mse_o: 893.08, mse_loq: 14.39, cent_minutiae: 14.39
+2017-04-29 11:08:24,553 INFO [TRAIN] gen: 2941.09, dis: 2941.09, mse: 2186.40, mse_o: 736.47, mse_loq: 18.22, cent_minutiae: 18.22
+2017-04-29 11:11:18,595 INFO Epoch 292 of 1000 took 223.92 seconds.
+2017-04-29 11:14:07,831 INFO [TEST] gen: 2710.05, dis: 2710.05, mse: 2151.24, mse_o: 547.58, mse_loq: 11.23, cent_minutiae: 11.23
+2017-04-29 11:14:07,832 INFO [TRAIN] gen: 3053.95, dis: 3053.95, mse: 2244.57, mse_o: 790.73, mse_loq: 18.65, cent_minutiae: 18.65
+2017-04-29 11:14:59,938 INFO Epoch 293 of 1000 took 221.34 seconds.
+2017-04-29 11:18:34,070 INFO Epoch 294 of 1000 took 214.13 seconds.
+2017-04-29 11:19:47,024 INFO [TEST] gen: 2772.32, dis: 2772.32, mse: 2210.16, mse_o: 552.19, mse_loq: 9.98, cent_minutiae: 9.98
+2017-04-29 11:19:47,024 INFO [TRAIN] gen: 3035.89, dis: 3035.89, mse: 2222.82, mse_o: 794.45, mse_loq: 18.62, cent_minutiae: 18.62
+2017-04-29 11:22:12,462 INFO Epoch 295 of 1000 took 218.39 seconds.
+2017-04-29 11:25:27,625 INFO [TEST] gen: 3000.17, dis: 3000.17, mse: 2478.67, mse_o: 501.49, mse_loq: 20.01, cent_minutiae: 20.01
+2017-04-29 11:25:27,625 INFO [TRAIN] gen: 3042.92, dis: 3042.92, mse: 2236.71, mse_o: 785.72, mse_loq: 20.49, cent_minutiae: 20.49
+2017-04-29 11:25:52,538 INFO Epoch 296 of 1000 took 220.07 seconds.
+2017-04-29 11:29:30,639 INFO Epoch 297 of 1000 took 218.10 seconds.
+2017-04-29 11:31:11,551 INFO [TEST] gen: 2622.36, dis: 2622.36, mse: 2173.06, mse_o: 428.97, mse_loq: 20.34, cent_minutiae: 20.34
+2017-04-29 11:31:11,551 INFO [TRAIN] gen: 3045.14, dis: 3045.14, mse: 2219.26, mse_o: 803.85, mse_loq: 22.03, cent_minutiae: 22.03
+2017-04-29 11:33:10,815 INFO Epoch 298 of 1000 took 220.17 seconds.
+2017-04-29 11:36:46,633 INFO Epoch 299 of 1000 took 215.82 seconds.
+2017-04-29 11:36:52,997 INFO [TEST] gen: 2819.31, dis: 2819.31, mse: 2390.17, mse_o: 420.70, mse_loq: 8.44, cent_minutiae: 8.44
+2017-04-29 11:36:52,997 INFO [TRAIN] gen: 2941.75, dis: 2941.75, mse: 2153.70, mse_o: 767.40, mse_loq: 20.65, cent_minutiae: 20.65
+2017-04-29 11:40:26,196 INFO Epoch 300 of 1000 took 219.56 seconds.
+2017-04-29 11:42:50,101 INFO [TEST] gen: 2678.70, dis: 2678.70, mse: 2280.93, mse_o: 387.55, mse_loq: 10.22, cent_minutiae: 10.22
+2017-04-29 11:42:50,102 INFO [TRAIN] gen: 3043.28, dis: 3043.28, mse: 2231.05, mse_o: 792.38, mse_loq: 19.85, cent_minutiae: 19.85
+2017-04-29 11:44:22,636 INFO Epoch 301 of 1000 took 218.54 seconds.
+2017-04-29 12:26:47,734 INFO [TEST] gen: 2352.30, dis: 2352.30, mse: 2012.70, mse_o: 333.13, mse_loq: 6.47, cent_minutiae: 6.47
+2017-04-29 12:26:47,734 INFO [TRAIN] gen: 2936.13, dis: 2936.13, mse: 2107.76, mse_o: 814.35, mse_loq: 14.03, cent_minutiae: 14.03
+2017-04-29 12:30:53,442 INFO Epoch 301 of 1000 took 252.09 seconds.
+2017-04-29 12:33:46,366 INFO [TEST] gen: 2423.02, dis: 2423.02, mse: 2021.99, mse_o: 388.61, mse_loq: 12.43, cent_minutiae: 12.43
+2017-04-29 12:33:46,366 INFO [TRAIN] gen: 2950.56, dis: 2950.56, mse: 2156.17, mse_o: 773.25, mse_loq: 21.14, cent_minutiae: 21.14
+2017-04-29 12:35:42,441 INFO Epoch 302 of 1000 took 289.00 seconds.
+2017-04-29 12:40:23,132 INFO Epoch 303 of 1000 took 280.69 seconds.
+2017-04-29 12:41:01,552 INFO [TEST] gen: 2783.90, dis: 2783.90, mse: 2197.92, mse_o: 575.99, mse_loq: 10.00, cent_minutiae: 10.00
+2017-04-29 12:41:01,552 INFO [TRAIN] gen: 2848.06, dis: 2848.06, mse: 2097.86, mse_o: 732.38, mse_loq: 17.81, cent_minutiae: 17.81
+2017-04-29 12:44:55,351 INFO Epoch 304 of 1000 took 272.22 seconds.
+2017-04-29 12:48:02,078 INFO [TEST] gen: 2467.86, dis: 2467.86, mse: 2135.16, mse_o: 325.28, mse_loq: 7.42, cent_minutiae: 7.42
+2017-04-29 12:48:02,078 INFO [TRAIN] gen: 2960.96, dis: 2960.96, mse: 2152.11, mse_o: 789.52, mse_loq: 19.33, cent_minutiae: 19.33
+2017-04-29 12:49:26,719 INFO Epoch 305 of 1000 took 271.37 seconds.
+2017-04-29 12:54:03,479 INFO Epoch 306 of 1000 took 276.76 seconds.
+2017-04-29 12:55:18,713 INFO [TEST] gen: 2692.44, dis: 2692.44, mse: 2282.67, mse_o: 400.37, mse_loq: 9.40, cent_minutiae: 9.40
+2017-04-29 12:55:18,713 INFO [TRAIN] gen: 2961.07, dis: 2961.07, mse: 2147.84, mse_o: 791.58, mse_loq: 21.65, cent_minutiae: 21.65
+2017-04-29 12:58:45,946 INFO Epoch 307 of 1000 took 282.47 seconds.
+2017-04-29 13:02:48,030 INFO [TEST] gen: 2808.28, dis: 2808.28, mse: 2208.74, mse_o: 591.22, mse_loq: 8.32, cent_minutiae: 8.32
+2017-04-29 13:02:48,030 INFO [TRAIN] gen: 2943.44, dis: 2943.44, mse: 2125.30, mse_o: 800.15, mse_loq: 17.98, cent_minutiae: 17.98
+2017-04-29 13:03:33,428 INFO Epoch 308 of 1000 took 287.48 seconds.
+2017-04-29 13:07:58,559 INFO Epoch 309 of 1000 took 265.13 seconds.
+2017-04-29 13:09:44,077 INFO [TEST] gen: 2650.30, dis: 2650.30, mse: 2041.69, mse_o: 600.31, mse_loq: 8.30, cent_minutiae: 8.30
+2017-04-29 13:09:44,078 INFO [TRAIN] gen: 2897.74, dis: 2897.74, mse: 2087.71, mse_o: 792.11, mse_loq: 17.91, cent_minutiae: 17.91
+2017-04-29 13:12:22,245 INFO Epoch 310 of 1000 took 263.69 seconds.
+2017-04-29 13:16:19,735 INFO [TEST] gen: 2684.56, dis: 2684.56, mse: 2081.06, mse_o: 596.93, mse_loq: 6.56, cent_minutiae: 6.56
+2017-04-29 13:16:19,735 INFO [TRAIN] gen: 2886.97, dis: 2886.97, mse: 2084.55, mse_o: 782.75, mse_loq: 19.66, cent_minutiae: 19.66
+2017-04-29 13:16:32,403 INFO Epoch 311 of 1000 took 250.16 seconds.
+2017-04-29 13:20:19,700 INFO Epoch 312 of 1000 took 227.30 seconds.
+2017-04-29 13:22:17,895 INFO [TEST] gen: 2546.06, dis: 2546.06, mse: 2100.30, mse_o: 437.93, mse_loq: 7.83, cent_minutiae: 7.83
+2017-04-29 13:22:17,895 INFO [TRAIN] gen: 2897.35, dis: 2897.35, mse: 2082.41, mse_o: 795.95, mse_loq: 18.99, cent_minutiae: 18.99
+2017-04-29 13:24:05,614 INFO Epoch 313 of 1000 took 225.91 seconds.
+2017-04-29 13:27:37,789 INFO Epoch 314 of 1000 took 212.17 seconds.
+2017-04-29 13:27:57,416 INFO [TEST] gen: 2802.22, dis: 2802.22, mse: 2260.13, mse_o: 534.37, mse_loq: 7.72, cent_minutiae: 7.72
+2017-04-29 13:27:57,417 INFO [TRAIN] gen: 2887.71, dis: 2887.71, mse: 2086.85, mse_o: 781.46, mse_loq: 19.39, cent_minutiae: 19.39
+2017-04-29 13:31:14,861 INFO Epoch 315 of 1000 took 217.07 seconds.
+2017-04-29 13:33:33,492 INFO [TEST] gen: 2716.84, dis: 2716.84, mse: 2260.61, mse_o: 447.06, mse_loq: 9.17, cent_minutiae: 9.17
+2017-04-29 13:33:33,492 INFO [TRAIN] gen: 2930.55, dis: 2930.55, mse: 2112.02, mse_o: 798.83, mse_loq: 19.70, cent_minutiae: 19.70
+2017-04-29 13:34:52,561 INFO Epoch 316 of 1000 took 217.70 seconds.
+2017-04-29 13:38:29,183 INFO Epoch 317 of 1000 took 216.62 seconds.
+2017-04-29 13:39:15,743 INFO [TEST] gen: 2679.57, dis: 2679.57, mse: 2204.15, mse_o: 461.16, mse_loq: 14.27, cent_minutiae: 14.27
+2017-04-29 13:39:15,744 INFO [TRAIN] gen: 2884.15, dis: 2884.15, mse: 2076.67, mse_o: 785.61, mse_loq: 21.87, cent_minutiae: 21.87
+2017-04-29 13:42:09,262 INFO Epoch 318 of 1000 took 220.08 seconds.
+2017-04-29 13:44:57,870 INFO [TEST] gen: 2733.50, dis: 2733.50, mse: 2343.28, mse_o: 381.76, mse_loq: 8.47, cent_minutiae: 8.47
+2017-04-29 13:44:57,870 INFO [TRAIN] gen: 2883.30, dis: 2883.30, mse: 2058.25, mse_o: 804.27, mse_loq: 20.78, cent_minutiae: 20.78
+2017-04-29 13:45:49,651 INFO Epoch 319 of 1000 took 220.39 seconds.
+2017-04-29 13:49:25,142 INFO Epoch 320 of 1000 took 215.49 seconds.
+2017-04-29 13:50:39,128 INFO [TEST] gen: 2642.89, dis: 2642.89, mse: 2199.05, mse_o: 432.67, mse_loq: 11.16, cent_minutiae: 11.16
+2017-04-29 13:50:39,129 INFO [TRAIN] gen: 2871.40, dis: 2871.40, mse: 2041.65, mse_o: 810.18, mse_loq: 19.58, cent_minutiae: 19.58
+2017-04-29 13:53:07,590 INFO Epoch 321 of 1000 took 222.45 seconds.
+2017-04-29 13:56:32,363 INFO [TEST] gen: 2449.30, dis: 2449.30, mse: 2044.35, mse_o: 397.10, mse_loq: 7.85, cent_minutiae: 7.85
+2017-04-29 13:56:32,363 INFO [TRAIN] gen: 2892.97, dis: 2892.97, mse: 2056.65, mse_o: 817.51, mse_loq: 18.81, cent_minutiae: 18.81
+2017-04-29 13:56:59,793 INFO Epoch 322 of 1000 took 232.20 seconds.
+2017-04-29 14:00:59,403 INFO Epoch 323 of 1000 took 239.61 seconds.
+2017-04-29 14:02:50,116 INFO [TEST] gen: 2564.56, dis: 2564.56, mse: 2184.75, mse_o: 369.63, mse_loq: 10.18, cent_minutiae: 10.18
+2017-04-29 14:02:50,116 INFO [TRAIN] gen: 2809.73, dis: 2809.73, mse: 2023.05, mse_o: 767.98, mse_loq: 18.70, cent_minutiae: 18.70
+2017-04-29 14:05:00,670 INFO Epoch 324 of 1000 took 241.26 seconds.
+2017-04-29 14:08:55,956 INFO Epoch 325 of 1000 took 235.28 seconds.
+2017-04-29 14:09:03,052 INFO [TEST] gen: 2522.67, dis: 2522.67, mse: 1973.00, mse_o: 543.22, mse_loq: 6.44, cent_minutiae: 6.44
+2017-04-29 14:09:03,052 INFO [TRAIN] gen: 2740.18, dis: 2740.18, mse: 1949.03, mse_o: 774.09, mse_loq: 17.06, cent_minutiae: 17.06
+2017-04-29 14:12:55,587 INFO Epoch 326 of 1000 took 239.63 seconds.
+2017-04-29 14:15:14,040 INFO [TEST] gen: 2613.17, dis: 2613.17, mse: 2068.95, mse_o: 537.57, mse_loq: 6.66, cent_minutiae: 6.66
+2017-04-29 14:15:14,041 INFO [TRAIN] gen: 2812.39, dis: 2812.39, mse: 2025.04, mse_o: 768.83, mse_loq: 18.52, cent_minutiae: 18.52
+2017-04-29 14:16:55,044 INFO Epoch 327 of 1000 took 239.46 seconds.
+2017-04-29 14:20:51,383 INFO Epoch 328 of 1000 took 236.34 seconds.
+2017-04-29 14:21:27,482 INFO [TEST] gen: 2568.70, dis: 2568.70, mse: 2133.47, mse_o: 428.15, mse_loq: 7.08, cent_minutiae: 7.08
+2017-04-29 14:21:27,483 INFO [TRAIN] gen: 2786.31, dis: 2786.31, mse: 1986.50, mse_o: 782.65, mse_loq: 17.16, cent_minutiae: 17.16
+2017-04-29 14:24:50,239 INFO Epoch 329 of 1000 took 238.85 seconds.
+2017-04-29 14:27:38,112 INFO [TEST] gen: 2705.67, dis: 2705.67, mse: 2114.87, mse_o: 581.82, mse_loq: 8.99, cent_minutiae: 8.99
+2017-04-29 14:27:38,112 INFO [TRAIN] gen: 2837.10, dis: 2837.10, mse: 1998.99, mse_o: 817.84, mse_loq: 20.27, cent_minutiae: 20.27
+2017-04-29 14:28:49,621 INFO Epoch 330 of 1000 took 239.38 seconds.
+2017-04-29 14:32:43,598 INFO Epoch 331 of 1000 took 233.97 seconds.
+2017-04-29 14:33:49,029 INFO [TEST] gen: 2783.93, dis: 2783.93, mse: 2179.31, mse_o: 590.68, mse_loq: 13.93, cent_minutiae: 13.93
+2017-04-29 14:33:49,030 INFO [TRAIN] gen: 2854.84, dis: 2854.84, mse: 2027.23, mse_o: 804.45, mse_loq: 23.16, cent_minutiae: 23.16
+2017-04-29 14:36:41,813 INFO Epoch 332 of 1000 took 238.21 seconds.
+2017-04-29 14:39:57,652 INFO [TEST] gen: 2810.34, dis: 2810.34, mse: 2221.97, mse_o: 573.35, mse_loq: 15.02, cent_minutiae: 15.02
+2017-04-29 14:39:57,652 INFO [TRAIN] gen: 2822.01, dis: 2822.01, mse: 1999.40, mse_o: 802.70, mse_loq: 19.91, cent_minutiae: 19.91
+2017-04-29 14:40:38,576 INFO Epoch 333 of 1000 took 236.76 seconds.
+2017-04-29 14:44:31,510 INFO Epoch 334 of 1000 took 232.93 seconds.
+2017-04-29 14:46:05,053 INFO [TEST] gen: 2526.61, dis: 2526.61, mse: 2090.28, mse_o: 424.51, mse_loq: 11.82, cent_minutiae: 11.82
+2017-04-29 14:46:05,053 INFO [TRAIN] gen: 2842.27, dis: 2842.27, mse: 1981.46, mse_o: 838.72, mse_loq: 22.09, cent_minutiae: 22.09
+2017-04-29 14:48:28,271 INFO Epoch 335 of 1000 took 236.76 seconds.
+2017-04-29 14:52:12,330 INFO [TEST] gen: 2567.14, dis: 2567.14, mse: 1850.67, mse_o: 697.36, mse_loq: 19.11, cent_minutiae: 19.11
+2017-04-29 14:52:12,330 INFO [TRAIN] gen: 2798.43, dis: 2798.43, mse: 1983.14, mse_o: 796.20, mse_loq: 19.09, cent_minutiae: 19.09
+2017-04-29 14:52:24,778 INFO Epoch 336 of 1000 took 236.51 seconds.
+2017-04-29 14:56:16,374 INFO Epoch 337 of 1000 took 231.59 seconds.
+2017-04-29 14:58:19,834 INFO [TEST] gen: 2725.08, dis: 2725.08, mse: 2203.80, mse_o: 508.19, mse_loq: 13.10, cent_minutiae: 13.10
+2017-04-29 14:58:19,834 INFO [TRAIN] gen: 2780.49, dis: 2780.49, mse: 1930.75, mse_o: 830.56, mse_loq: 19.19, cent_minutiae: 19.19
+2017-04-29 15:00:14,030 INFO Epoch 338 of 1000 took 237.66 seconds.
+2017-04-29 15:03:53,024 INFO Epoch 339 of 1000 took 218.99 seconds.
+2017-04-29 15:04:11,978 INFO [TEST] gen: 2320.49, dis: 2320.49, mse: 1977.93, mse_o: 334.87, mse_loq: 7.69, cent_minutiae: 7.69
+2017-04-29 15:04:11,979 INFO [TRAIN] gen: 2713.67, dis: 2713.67, mse: 1964.22, mse_o: 732.93, mse_loq: 16.53, cent_minutiae: 16.53
+2017-04-29 15:07:17,657 INFO Epoch 340 of 1000 took 204.63 seconds.
+2017-04-29 15:09:29,445 INFO [TEST] gen: 2611.50, dis: 2611.50, mse: 2031.39, mse_o: 567.66, mse_loq: 12.45, cent_minutiae: 12.45
+2017-04-29 15:09:29,445 INFO [TRAIN] gen: 2726.03, dis: 2726.03, mse: 1936.58, mse_o: 771.71, mse_loq: 17.75, cent_minutiae: 17.75
+2017-04-29 15:10:43,231 INFO Epoch 341 of 1000 took 205.57 seconds.
+2017-04-29 15:14:04,267 INFO Epoch 342 of 1000 took 201.03 seconds.
+2017-04-29 15:14:47,384 INFO [TEST] gen: 2435.74, dis: 2435.74, mse: 2069.79, mse_o: 358.85, mse_loq: 7.11, cent_minutiae: 7.11
+2017-04-29 15:14:47,385 INFO [TRAIN] gen: 2639.52, dis: 2639.52, mse: 1873.12, mse_o: 747.96, mse_loq: 18.45, cent_minutiae: 18.45
+2017-04-29 15:17:30,631 INFO Epoch 343 of 1000 took 206.36 seconds.
+2017-04-29 15:20:10,194 INFO [TEST] gen: 2378.63, dis: 2378.63, mse: 1989.99, mse_o: 381.90, mse_loq: 6.74, cent_minutiae: 6.74
+2017-04-29 15:20:10,194 INFO [TRAIN] gen: 2739.10, dis: 2739.10, mse: 1925.82, mse_o: 793.96, mse_loq: 19.33, cent_minutiae: 19.33
+2017-04-29 15:21:04,058 INFO Epoch 344 of 1000 took 213.43 seconds.
+2017-04-29 15:24:32,827 INFO Epoch 345 of 1000 took 208.77 seconds.
+2017-04-29 15:25:50,828 INFO [TEST] gen: 2366.31, dis: 2366.31, mse: 1975.70, mse_o: 381.12, mse_loq: 9.49, cent_minutiae: 9.49
+2017-04-29 15:25:50,828 INFO [TRAIN] gen: 2671.92, dis: 2671.92, mse: 1862.45, mse_o: 792.48, mse_loq: 16.99, cent_minutiae: 16.99
+2017-04-29 15:28:42,595 INFO Epoch 346 of 1000 took 249.77 seconds.
+2017-04-29 15:32:31,849 INFO [TEST] gen: 2497.17, dis: 2497.17, mse: 1991.29, mse_o: 498.10, mse_loq: 7.78, cent_minutiae: 7.78
+2017-04-29 15:32:31,849 INFO [TRAIN] gen: 2692.25, dis: 2692.25, mse: 1883.35, mse_o: 788.40, mse_loq: 20.50, cent_minutiae: 20.50
+2017-04-29 15:33:01,162 INFO Epoch 347 of 1000 took 258.57 seconds.
+2017-04-29 15:36:57,857 INFO Epoch 348 of 1000 took 236.69 seconds.
+2017-04-29 15:38:46,580 INFO [TEST] gen: 2399.60, dis: 2399.60, mse: 2010.47, mse_o: 382.15, mse_loq: 6.98, cent_minutiae: 6.98
+2017-04-29 15:38:46,581 INFO [TRAIN] gen: 2740.69, dis: 2740.69, mse: 1883.52, mse_o: 831.19, mse_loq: 25.98, cent_minutiae: 25.98
+2017-04-29 15:40:51,797 INFO Epoch 349 of 1000 took 233.94 seconds.
+2017-04-29 15:44:33,185 INFO Epoch 350 of 1000 took 221.39 seconds.
+2017-04-29 15:44:58,459 INFO [TEST] gen: 2515.58, dis: 2515.58, mse: 2102.67, mse_o: 406.55, mse_loq: 6.36, cent_minutiae: 6.36
+2017-04-29 15:44:58,460 INFO [TRAIN] gen: 2542.76, dis: 2542.76, mse: 1853.68, mse_o: 672.71, mse_loq: 16.38, cent_minutiae: 16.38
+2017-04-29 15:48:37,597 INFO Epoch 351 of 1000 took 225.43 seconds.
+2017-04-29 15:50:47,793 INFO [TEST] gen: 2413.26, dis: 2413.26, mse: 2084.35, mse_o: 319.91, mse_loq: 9.00, cent_minutiae: 9.00
+2017-04-29 15:50:47,793 INFO [TRAIN] gen: 2660.54, dis: 2660.54, mse: 1877.28, mse_o: 763.90, mse_loq: 19.35, cent_minutiae: 19.35
+2017-04-29 15:52:19,107 INFO Epoch 352 of 1000 took 221.51 seconds.
+2017-04-29 15:55:52,244 INFO Epoch 353 of 1000 took 213.14 seconds.
+2017-04-29 15:56:25,077 INFO [TEST] gen: 2539.13, dis: 2539.13, mse: 1807.28, mse_o: 719.37, mse_loq: 12.47, cent_minutiae: 12.47
+2017-04-29 15:56:25,078 INFO [TRAIN] gen: 2731.77, dis: 2731.77, mse: 1894.83, mse_o: 815.48, mse_loq: 21.46, cent_minutiae: 21.46
+2017-04-29 15:59:30,361 INFO Epoch 354 of 1000 took 218.12 seconds.
+2017-04-29 16:01:57,412 INFO [TEST] gen: 2497.95, dis: 2497.95, mse: 1965.60, mse_o: 525.76, mse_loq: 6.59, cent_minutiae: 6.59
+2017-04-29 16:01:57,413 INFO [TRAIN] gen: 2653.62, dis: 2653.62, mse: 1866.77, mse_o: 768.47, mse_loq: 18.38, cent_minutiae: 18.38
+2017-04-29 16:02:58,561 INFO Epoch 355 of 1000 took 208.20 seconds.
+2017-04-29 16:06:21,229 INFO Epoch 356 of 1000 took 202.67 seconds.
+2017-04-29 16:07:19,403 INFO [TEST] gen: 2357.03, dis: 2357.03, mse: 1883.12, mse_o: 459.99, mse_loq: 13.92, cent_minutiae: 13.92
+2017-04-29 16:07:19,403 INFO [TRAIN] gen: 2783.14, dis: 2783.14, mse: 1925.73, mse_o: 835.62, mse_loq: 21.79, cent_minutiae: 21.79
+2017-04-29 16:10:06,801 INFO Epoch 357 of 1000 took 225.57 seconds.
+2017-04-29 16:13:07,012 INFO [TEST] gen: 2416.47, dis: 2416.47, mse: 1930.65, mse_o: 478.76, mse_loq: 7.06, cent_minutiae: 7.06
+2017-04-29 16:13:07,012 INFO [TRAIN] gen: 2649.47, dis: 2649.47, mse: 1845.37, mse_o: 783.95, mse_loq: 20.15, cent_minutiae: 20.15
+2017-04-29 16:13:46,120 INFO Epoch 358 of 1000 took 219.32 seconds.
+2017-04-29 16:17:19,994 INFO Epoch 359 of 1000 took 213.87 seconds.
+2017-04-29 16:18:49,860 INFO [TEST] gen: 2428.43, dis: 2428.43, mse: 1931.97, mse_o: 490.34, mse_loq: 6.12, cent_minutiae: 6.12
+2017-04-29 16:18:49,860 INFO [TRAIN] gen: 2662.23, dis: 2662.23, mse: 1858.61, mse_o: 783.57, mse_loq: 20.05, cent_minutiae: 20.05
+2017-04-29 16:21:09,879 INFO Epoch 360 of 1000 took 229.88 seconds.
+2017-04-29 16:25:03,738 INFO [TEST] gen: 2630.01, dis: 2630.01, mse: 2024.64, mse_o: 590.23, mse_loq: 15.14, cent_minutiae: 15.14
+2017-04-29 16:25:03,738 INFO [TRAIN] gen: 2636.67, dis: 2636.67, mse: 1832.31, mse_o: 784.84, mse_loq: 19.51, cent_minutiae: 19.51
+2017-04-29 16:25:17,375 INFO Epoch 361 of 1000 took 247.49 seconds.
+2017-04-29 16:29:16,256 INFO Epoch 362 of 1000 took 238.88 seconds.
